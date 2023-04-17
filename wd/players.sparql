@@ -1,0 +1,19 @@
+SELECT DISTINCT 
+?item 
+?country 
+# ?countryLabel 
+?LabelEN ?LabelDE 
+?page_titlePL
+WHERE {
+  ?item wdt:P31 wd:Q5 .  # human
+  ?item wdt:P106 wd:Q17165321. # job = snooker player
+  ?item wdt:P1532 ?country.
+#   SERVICE wikibase:label {
+#     bd:serviceParam wikibase:language "en".
+#     ?country rdfs:label ?countryLabel.
+#   }
+  ?article schema:about ?item ; schema:isPartOf <https://pl.wikipedia.org/> ;  schema:name ?page_titlePL .
+  ?item rdfs:label ?LabelEN FILTER (lang(?LabelEN) = "en") .
+  ?item rdfs:label ?LabelDE FILTER (lang(?LabelDE) = "de") .
+}
+LIMIT 300

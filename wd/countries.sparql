@@ -1,0 +1,7 @@
+SELECT DISTINCT ?country ?countryLabel ?countryCode WHERE {
+  ?country p:P298 [] .
+  ?country wdt:P298 ?countryCode.
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "en" .
+  }
+}
