@@ -89,6 +89,7 @@ class PlayersGenerator
 		}
 		// add country to player
 		$unknown = array();
+		$unknownPlayers = array();
 		foreach ($players as $player) {
 			// GBR to ENG
 			if ($player->country == 'Q145') {
@@ -99,6 +100,7 @@ class PlayersGenerator
 			if (!isset($countryMap[$player->country])) {
 				if (!in_array($player->country, $unknown)) {
 					$unknown[] = $player->country;
+					$unknownPlayers[] = $player;
 				}
 			} else {
 				// resolve
@@ -106,7 +108,9 @@ class PlayersGenerator
 			}
 		}
 		if (!empty($unknown)) {
-			$this->console->warn("Note! Unknown country! ". implode(', ', $unknown));
+			$this->console->error("Unknown country/countries! ". implode(', ', $unknown));
+			var_export($unknownPlayers);
+			die();
 		}
 		return $players;
 	}
