@@ -7,12 +7,16 @@
 - ✅Load & parse to objects.
 - ✅Prepare players with countries data
 - ✅Format & Save.
+- Regenerate with non-existent pl article.
 - Merge with previous data?
 - Also dump countries? Do I use them?
 - Add extra data:
 	- Add object constructor in JS.
 	- Format line for object constructor.
 	- Add WD id to the player object.
+
+Running WD SPARQL:
+https://query.wikidata.org/
 
 ## Add players missing in Polish
 

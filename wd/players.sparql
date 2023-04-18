@@ -25,4 +25,5 @@ WHERE {
   # English WD label
   ?item rdfs:label ?LabelEN FILTER((LANG(?LabelEN)) = "en").
 }
+ORDER BY ASC(?country) ASC(?LabelEN)
 # LIMIT 300
