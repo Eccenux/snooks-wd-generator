@@ -1,0 +1,6 @@
+{
+	"search.exclude": {
+		"wd/*.js": true,
+		"wd/*.json": true
+	}
+}
