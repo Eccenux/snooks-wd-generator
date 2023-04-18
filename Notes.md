@@ -6,8 +6,13 @@
 - ✅Generator base (VSC).
 - ✅Load & parse to objects.
 - ✅Prepare players with countries data
-- Save.
+- ✅Format & Save.
 - Merge with previous data?
+- Also dump countries? Do I use them?
+- Add extra data:
+	- Add object constructor in JS.
+	- Format line for object constructor.
+	- Add WD id to the player object.
 
 ## Add players missing in Polish
 
