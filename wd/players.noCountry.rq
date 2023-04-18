@@ -3,15 +3,40 @@ SELECT DISTINCT
 ?item 
 ?LabelEN
 ?LabelPL
+?nationality
+?nationalityLabel
+?descriptionEN
+?descriptionPL
 ?page_titlePL
 WHERE {
   ?item wdt:P31 wd:Q5 .  # human
   ?item wdt:P106 wd:Q17165321. # job = snooker player
   OPTIONAL {
+    ?item wdt:P27 ?nationality.
+    SERVICE wikibase:label {
+      bd:serviceParam wikibase:language "pl".
+      ?nationality rdfs:label ?nationalityLabel.
+    }
+  }
+  OPTIONAL {
     ?article schema:about ?item ; schema:isPartOf <https://pl.wikipedia.org/> ;  schema:name ?page_titlePL .
     ?item rdfs:label ?LabelPL FILTER (lang(?LabelPL) = "pl") .
   }
   ?item rdfs:label ?LabelEN FILTER (lang(?LabelEN) = "en") .
+  OPTIONAL {
+    ?item schema:description ?descriptionEN FILTER (lang(?descriptionEN) = "en").
+    SERVICE wikibase:label {
+      bd:serviceParam wikibase:language "en".
+      ?descriptionEN rdfs:label ?enDescriptionLabel.
+    }
+  }
+  OPTIONAL {
+    ?item schema:description ?descriptionPL FILTER (lang(?descriptionPL) = "pl").
+    SERVICE wikibase:label {
+      bd:serviceParam wikibase:language "pl".
+      ?descriptionPL rdfs:label ?plDescriptionLabel.
+    }
+  }
   OPTIONAL {
     ?item wdt:P1532 ?country.
     FILTER(?country = wd:noValue)
