@@ -3,8 +3,8 @@
 - ✅Prepare a WD query for players.
 - ✅Prepare a WD query for country codes.
 - ✅Download results.
-- Generator base (VSC).
-- Load & parse to objects.
+- ✅Generator base (VSC).
+- ✅Load & parse to objects.
 - Merge.
 - Final transform?
 - Save.
