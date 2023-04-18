@@ -1,0 +1,21 @@
+# Snooker players without a country
+SELECT DISTINCT 
+?item 
+?LabelEN
+?LabelPL
+?page_titlePL
+WHERE {
+  ?item wdt:P31 wd:Q5 .  # human
+  ?item wdt:P106 wd:Q17165321. # job = snooker player
+  OPTIONAL {
+    ?article schema:about ?item ; schema:isPartOf <https://pl.wikipedia.org/> ;  schema:name ?page_titlePL .
+    ?item rdfs:label ?LabelPL FILTER (lang(?LabelPL) = "pl") .
+  }
+  ?item rdfs:label ?LabelEN FILTER (lang(?LabelEN) = "en") .
+  OPTIONAL {
+    ?item wdt:P1532 ?country.
+    FILTER(?country = wd:noValue)
+  }
+  FILTER(!bound(?country))
+}
+# LIMIT 300
