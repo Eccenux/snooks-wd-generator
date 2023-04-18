@@ -1,0 +1,22 @@
+[
+	{
+		"country": "http://www.wikidata.org/entity/Q22",
+		"countryLabel": "Scotland",
+		"countryCode": "SCO"
+	},
+	{
+		"country": "http://www.wikidata.org/entity/Q26",
+		"countryLabel": "Northern Ireland",
+		"countryCode": "NIR"
+	},
+	{
+		"country": "http://www.wikidata.org/entity/Q25",
+		"countryLabel": "Wales",
+		"countryCode": "WAL"
+	},
+	{
+		"country": "http://www.wikidata.org/entity/Q21",
+		"countryLabel": "England",
+		"countryCode": "ENG"
+	}
+]

@@ -5,9 +5,9 @@
 - ✅Download results.
 - ✅Generator base (VSC).
 - ✅Load & parse to objects.
-- Merge.
-- Final transform?
+- ✅Prepare players with countries data
 - Save.
+- Merge with previous data?
 
 ## Add players missing in Polish
 
