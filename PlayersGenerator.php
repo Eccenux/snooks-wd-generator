@@ -91,6 +91,14 @@ class PlayersGenerator
 		$unknown = array();
 		$unknownPlayers = array();
 		foreach ($players as $player) {
+			// setup optional
+			if (!isset($player->LabelPL)) {
+				$player->LabelPL = $player->LabelEN;
+			}
+			if (!isset($player->page_titlePL)) {
+				$player->page_titlePL = '';
+			}
+
 			// GBR to ENG
 			if ($player->country == 'Q145') {
 				$player->country = 'Q21';
@@ -129,7 +137,7 @@ class PlayersGenerator
 			if ($cmp != 0) {
 				return $cmp;
 			}
-			return strcmp($a->LabelEN, $b->LabelEN);
+			return strcmp($a->LabelPL, $b->LabelPL);
 		}
 		usort($players, "cmp");
 		
@@ -137,7 +145,7 @@ class PlayersGenerator
 		$lines = array();
 		$previousFlag = '';
 		foreach ($players as $player) {
-			$name = $player->LabelEN;
+			$name = $player->LabelPL;
 			$art = $player->page_titlePL;
 			$flaga = $player->country->countryCode;
 			if (!empty($previousFlag) && $previousFlag != $flaga) {
