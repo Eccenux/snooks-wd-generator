@@ -1,8 +1,18 @@
 [{
+	"item": "http://www.wikidata.org/entity/Q4130129",
+	"country": "http://www.wikidata.org/entity/Q142",
+	"countryLabel": "Francja",
+	"LabelEN": "Angélique Vialard"
+}, {
 	"item": "http://www.wikidata.org/entity/Q54789486",
 	"country": "http://www.wikidata.org/entity/Q142",
 	"countryLabel": "Francja",
 	"LabelEN": "Brian Ochoiski"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107212344",
+	"country": "http://www.wikidata.org/entity/Q142",
+	"countryLabel": "Francja",
+	"LabelEN": "Niel Vincent"
 }, {
 	"item": "http://www.wikidata.org/entity/Q1452267",
 	"country": "http://www.wikidata.org/entity/Q145",
@@ -25,10 +35,271 @@
 	"LabelPL": "John Pulman",
 	"page_titlePL": "John Pulman"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4818938",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Au Chi-wai"
+}, {
+	"item": "http://www.wikidata.org/entity/Q63565647",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Bai Langning"
+}, {
+	"item": "http://www.wikidata.org/entity/Q77252078",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Bai Yulu"
+}, {
+	"item": "http://www.wikidata.org/entity/Q66497769",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Bi Zhu Qing"
+}, {
+	"item": "http://www.wikidata.org/entity/Q16979855",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Cao Xinlong"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1034108",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Cao Yupeng",
+	"LabelPL": "Cao Yupeng",
+	"page_titlePL": "Cao Yupeng"
+}, {
+	"item": "http://www.wikidata.org/entity/Q58330934",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Chang Bingyu"
+}, {
+	"item": "http://www.wikidata.org/entity/Q51880016",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Chen Feilong"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1069812",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Chen Zhe"
+}, {
+	"item": "http://www.wikidata.org/entity/Q30040953",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Chen Zifan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q319008",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Ding Junhui",
+	"LabelPL": "Ding Junhui",
+	"page_titlePL": "Ding Junhui"
+}, {
+	"item": "http://www.wikidata.org/entity/Q49166978",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Fan Zhengyi"
+}, {
+	"item": "http://www.wikidata.org/entity/Q24134606",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Fang Xiongman"
+}, {
+	"item": "http://www.wikidata.org/entity/Q96418444",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Gao Yang"
+}, {
+	"item": "http://www.wikidata.org/entity/Q15923342",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Gary Kwok"
+}, {
+	"item": "http://www.wikidata.org/entity/Q56812193",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Guo Hua"
+}, {
 	"item": "http://www.wikidata.org/entity/Q58332858",
 	"country": "http://www.wikidata.org/entity/Q148",
 	"countryLabel": "Chińska Republika Ludowa",
 	"LabelEN": "He Guoqiang"
+}, {
+	"item": "http://www.wikidata.org/entity/Q117749954",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Jiang Jun"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1477070",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Jin Long",
+	"LabelPL": "Jin Long",
+	"page_titlePL": "Jin Long"
+}, {
+	"item": "http://www.wikidata.org/entity/Q17466280",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Ju Reti"
+}, {
+	"item": "http://www.wikidata.org/entity/Q64364603",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Lei Peifan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q976941",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Li Hang",
+	"LabelPL": "Li Hang",
+	"page_titlePL": "Li Hang"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1255395",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Li Yan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q30045912",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Li Yuan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q557076",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Liang Wenbo",
+	"LabelPL": "Liang Wenbo",
+	"page_titlePL": "Liang Wenbo"
+}, {
+	"item": "http://www.wikidata.org/entity/Q267385",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Liu Chuang",
+	"LabelPL": "Liu Chuang",
+	"page_titlePL": "Liu Chuang"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1399851",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Liu Song",
+	"LabelPL": "Liu Song",
+	"page_titlePL": "Liu Song"
+}, {
+	"item": "http://www.wikidata.org/entity/Q117749989",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Long Zehuang"
+}, {
+	"item": "http://www.wikidata.org/entity/Q17517170",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Lu Chenwei"
+}, {
+	"item": "http://www.wikidata.org/entity/Q6694882",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Lu Ning",
+	"LabelPL": "Lu Ning",
+	"page_titlePL": "Lu Ning"
+}, {
+	"item": "http://www.wikidata.org/entity/Q51786995",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Luo Honghao",
+	"LabelPL": "Luo Honghao",
+	"page_titlePL": "Luo Honghao"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1533517",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Lyu Haotian"
+}, {
+	"item": "http://www.wikidata.org/entity/Q116762001",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Ma Hailong"
+}, {
+	"item": "http://www.wikidata.org/entity/Q380594",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Marco Fu",
+	"LabelPL": "Marco Fu",
+	"page_titlePL": "Marco Fu"
+}, {
+	"item": "http://www.wikidata.org/entity/Q970134",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Mei Xiwen",
+	"LabelPL": "Mei Xiwen",
+	"page_titlePL": "Mei Xiwen"
+}, {
+	"item": "http://www.wikidata.org/entity/Q30643793",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Niu Zhuang"
+}, {
+	"item": "http://www.wikidata.org/entity/Q96359487",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Pang Junxu"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4343807",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Pang Weiguo"
+}, {
+	"item": "http://www.wikidata.org/entity/Q112245053",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Peng Yisong"
+}, {
+	"item": "http://www.wikidata.org/entity/Q17541401",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Rouzi Maimaiti"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67201503",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Shi Chunxia"
+}, {
+	"item": "http://www.wikidata.org/entity/Q64354288",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Si Jiahui"
+}, {
+	"item": "http://www.wikidata.org/entity/Q653292",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Tian Pengfei",
+	"LabelPL": "Tian Pengfei",
+	"page_titlePL": "Tian Pengfei"
+}, {
+	"item": "http://www.wikidata.org/entity/Q18380379",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Wang Yuchen"
+}, {
+	"item": "http://www.wikidata.org/entity/Q55756426",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Wu Yize"
+}, {
+	"item": "http://www.wikidata.org/entity/Q536617",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Xiao Guodong",
+	"LabelPL": "Xiao Guodong",
+	"page_titlePL": "Xiao Guodong"
+}, {
+	"item": "http://www.wikidata.org/entity/Q117749974",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Xing Zihao"
+}, {
+	"item": "http://www.wikidata.org/entity/Q30136427",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Xu Si"
 }, {
 	"item": "http://www.wikidata.org/entity/Q20084185",
 	"country": "http://www.wikidata.org/entity/Q148",
@@ -37,10 +308,409 @@
 	"LabelPL": "Yan Bingtao",
 	"page_titlePL": "Yan Bingtao"
 }, {
+	"item": "http://www.wikidata.org/entity/Q527547",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Yu Delu",
+	"LabelPL": "Yu Delu",
+	"page_titlePL": "Yu Delu"
+}, {
+	"item": "http://www.wikidata.org/entity/Q30013145",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Yuan Sijun"
+}, {
+	"item": "http://www.wikidata.org/entity/Q197153",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Zhang Anda",
+	"LabelPL": "Zhang Anda",
+	"page_titlePL": "Zhang Anda"
+}, {
+	"item": "http://www.wikidata.org/entity/Q51880649",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Zhang Jiankang"
+}, {
+	"item": "http://www.wikidata.org/entity/Q20740395",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Zhang Yong"
+}, {
+	"item": "http://www.wikidata.org/entity/Q96359525",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Zhao Jianbo"
+}, {
+	"item": "http://www.wikidata.org/entity/Q18542980",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Zhao Xintong",
+	"LabelPL": "Zhao Xintong",
+	"page_titlePL": "Zhao Xintong"
+}, {
+	"item": "http://www.wikidata.org/entity/Q17403551",
+	"country": "http://www.wikidata.org/entity/Q148",
+	"countryLabel": "Chińska Republika Ludowa",
+	"LabelEN": "Zhou Yuelong",
+	"LabelPL": "Zhou Yuelong",
+	"page_titlePL": "Zhou Yuelong"
+}, {
+	"item": "http://www.wikidata.org/entity/Q113510089",
+	"country": "http://www.wikidata.org/entity/Q155",
+	"countryLabel": "Brazylia",
+	"LabelEN": "Baianinho de Mauá"
+}, {
+	"item": "http://www.wikidata.org/entity/Q261067",
+	"country": "http://www.wikidata.org/entity/Q155",
+	"countryLabel": "Brazylia",
+	"LabelEN": "Igor Figueiredo",
+	"LabelPL": "Igor Figueiredo",
+	"page_titlePL": "Igor Figueiredo"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1466086",
+	"country": "http://www.wikidata.org/entity/Q155",
+	"countryLabel": "Brazylia",
+	"LabelEN": "Itaro Santos"
+}, {
+	"item": "http://www.wikidata.org/entity/Q10365236",
+	"country": "http://www.wikidata.org/entity/Q155",
+	"countryLabel": "Brazylia",
+	"LabelEN": "Rui Chapéu"
+}, {
+	"item": "http://www.wikidata.org/entity/Q112081017",
+	"country": "http://www.wikidata.org/entity/Q155",
+	"countryLabel": "Brazylia",
+	"LabelEN": "Victor Sarkis"
+}, {
+	"item": "http://www.wikidata.org/entity/Q64816365",
+	"country": "http://www.wikidata.org/entity/Q159",
+	"countryLabel": "Rosja",
+	"LabelEN": "Aleksandra Guleikova"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67697008",
+	"country": "http://www.wikidata.org/entity/Q159",
+	"countryLabel": "Rosja",
+	"LabelEN": "Anastasia Nechaeva"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4274417",
+	"country": "http://www.wikidata.org/entity/Q159",
+	"countryLabel": "Rosja",
+	"LabelEN": "Anna Mazhirina"
+}, {
+	"item": "http://www.wikidata.org/entity/Q33509720",
+	"country": "http://www.wikidata.org/entity/Q159",
+	"countryLabel": "Rosja",
+	"LabelEN": "Kristina Tkach"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1290798",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Alain Robidoux",
+	"LabelPL": "Alain Robidoux",
+	"page_titlePL": "Alain Robidoux"
+}, {
+	"item": "http://www.wikidata.org/entity/Q101006003",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Bernie Mikkelsen"
+}, {
+	"item": "http://www.wikidata.org/entity/Q887839",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Bob Chaperon",
+	"LabelPL": "Bob Chaperon",
+	"page_titlePL": "Bob Chaperon"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4141627",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Brady Gollan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q181102",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Cliff Thorburn",
+	"LabelPL": "Cliff Thorburn",
+	"page_titlePL": "Cliff Thorburn"
+}, {
+	"item": "http://www.wikidata.org/entity/Q19661796",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Dean Mellway"
+}, {
+	"item": "http://www.wikidata.org/entity/Q15809859",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Floyd Ziegler"
+}, {
+	"item": "http://www.wikidata.org/entity/Q21066444",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Frank Jonik"
+}, {
+	"item": "http://www.wikidata.org/entity/Q105104379",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Gary Natale"
+}, {
+	"item": "http://www.wikidata.org/entity/Q5537847",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "George Chenier",
+	"LabelPL": "George Chenier",
+	"page_titlePL": "George Chenier"
+}, {
+	"item": "http://www.wikidata.org/entity/Q106941097",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Gerry Watson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q101555489",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Gino Rigitano"
+}, {
+	"item": "http://www.wikidata.org/entity/Q98074070",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Jim Bear"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4112597",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Jim Wych"
+}, {
+	"item": "http://www.wikidata.org/entity/Q106954266",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Joe Cagianello"
+}, {
+	"item": "http://www.wikidata.org/entity/Q20985427",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "John Bear"
+}, {
+	"item": "http://www.wikidata.org/entity/Q106989449",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Kevin Robitaille"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1743495",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Kirk Stevens",
+	"LabelPL": "Kirk Stevens",
+	"page_titlePL": "Kirk Stevens"
+}, {
+	"item": "http://www.wikidata.org/entity/Q106095984",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Leo Levitt"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4140937",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Marcel Gauvreau"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4303200",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Mario Morra"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67087725",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Maryann McConnell"
+}, {
+	"item": "http://www.wikidata.org/entity/Q66973774",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Natalie Stelmach"
+}, {
+	"item": "http://www.wikidata.org/entity/Q23761568",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Paul Thornley"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67087736",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Sue LeMaich"
+}, {
+	"item": "http://www.wikidata.org/entity/Q106240193",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Tom Finstad"
+}, {
+	"item": "http://www.wikidata.org/entity/Q106955266",
+	"country": "http://www.wikidata.org/entity/Q16",
+	"countryLabel": "Kanada",
+	"LabelEN": "Wayne Sanderson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q106539059",
+	"country": "http://www.wikidata.org/entity/Q17",
+	"countryLabel": "Japonia",
+	"LabelEN": "Keishin Kamihashi"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110475466",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Alexander Widau"
+}, {
+	"item": "http://www.wikidata.org/entity/Q66715767",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Diana Schuler"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67697033",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Diana Stateczny"
+}, {
+	"item": "http://www.wikidata.org/entity/Q20171859",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Felix Frede"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1444141",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Frank Schröder"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1663402",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Lasse Münstermann"
+}, {
+	"item": "http://www.wikidata.org/entity/Q18222474",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Lukas Kleckers"
+}, {
+	"item": "http://www.wikidata.org/entity/Q99316775",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Michael Schnabel"
+}, {
+	"item": "http://www.wikidata.org/entity/Q73563",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Patrick Einsle",
+	"LabelPL": "Patrick Einsle",
+	"page_titlePL": "Patrick Einsle"
+}, {
+	"item": "http://www.wikidata.org/entity/Q99316773",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Peter Wagner"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107182462",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Richard Wienold"
+}, {
+	"item": "http://www.wikidata.org/entity/Q19121457",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Roman Dietzel"
+}, {
+	"item": "http://www.wikidata.org/entity/Q97062463",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Sascha Diemer"
+}, {
+	"item": "http://www.wikidata.org/entity/Q15844052",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Sascha Lippe"
+}, {
+	"item": "http://www.wikidata.org/entity/Q27857558",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Simon Lichtenberg"
+}, {
+	"item": "http://www.wikidata.org/entity/Q19960032",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Stefan Kasper"
+}, {
+	"item": "http://www.wikidata.org/entity/Q19885611",
+	"country": "http://www.wikidata.org/entity/Q183",
+	"countryLabel": "Niemcy",
+	"LabelEN": "Thomas Hein"
+}, {
+	"item": "http://www.wikidata.org/entity/Q25343266",
+	"country": "http://www.wikidata.org/entity/Q189",
+	"countryLabel": "Islandia",
+	"LabelEN": "Brynjar Valdimarsson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q25349721",
+	"country": "http://www.wikidata.org/entity/Q189",
+	"countryLabel": "Islandia",
+	"LabelEN": "Eðvarð Matthíasson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q27253772",
+	"country": "http://www.wikidata.org/entity/Q189",
+	"countryLabel": "Islandia",
+	"LabelEN": "Gary Hardiman"
+}, {
+	"item": "http://www.wikidata.org/entity/Q25802601",
+	"country": "http://www.wikidata.org/entity/Q189",
+	"countryLabel": "Islandia",
+	"LabelEN": "Indika Dodangoda"
+}, {
+	"item": "http://www.wikidata.org/entity/Q25711490",
+	"country": "http://www.wikidata.org/entity/Q189",
+	"countryLabel": "Islandia",
+	"LabelEN": "Jóhannes B. Jóhannesson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q25712240",
+	"country": "http://www.wikidata.org/entity/Q189",
+	"countryLabel": "Islandia",
+	"LabelEN": "Jóhannes R. Jóhannesson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q20990684",
+	"country": "http://www.wikidata.org/entity/Q189",
+	"countryLabel": "Islandia",
+	"LabelEN": "Kristján Helgason"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110072940",
+	"country": "http://www.wikidata.org/entity/Q189",
+	"countryLabel": "Islandia",
+	"LabelEN": "Peter Daubney"
+}, {
+	"item": "http://www.wikidata.org/entity/Q25713943",
+	"country": "http://www.wikidata.org/entity/Q189",
+	"countryLabel": "Islandia",
+	"LabelEN": "Ásgeir Ásgeirsson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q28970828",
+	"country": "http://www.wikidata.org/entity/Q191",
+	"countryLabel": "Estonia",
+	"LabelEN": "Andres Petrov"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4394601",
+	"country": "http://www.wikidata.org/entity/Q20",
+	"countryLabel": "Norwegia",
+	"LabelEN": "Anita Rizzuti"
+}, {
+	"item": "http://www.wikidata.org/entity/Q18874028",
+	"country": "http://www.wikidata.org/entity/Q20",
+	"countryLabel": "Norwegia",
+	"LabelEN": "Bjørn L’Orange"
+}, {
 	"item": "http://www.wikidata.org/entity/Q65032546",
 	"country": "http://www.wikidata.org/entity/Q20",
 	"countryLabel": "Norwegia",
 	"LabelEN": "Christopher Watts"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1793840",
+	"country": "http://www.wikidata.org/entity/Q20",
+	"countryLabel": "Norwegia",
+	"LabelEN": "Kurt Maflin",
+	"LabelPL": "Kurt Maflin",
+	"page_titlePL": "Kurt Maflin"
 }, {
 	"item": "http://www.wikidata.org/entity/Q21005547",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -54,10 +724,29 @@
 	"LabelPL": "Adam Duffy",
 	"page_titlePL": "Adam Duffy"
 }, {
+	"item": "http://www.wikidata.org/entity/Q351164",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Adam Wicheard",
+	"LabelPL": "Adam Wicheard",
+	"page_titlePL": "Adam Wicheard"
+}, {
+	"item": "http://www.wikidata.org/entity/Q373084",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Adrian Gunnell",
+	"LabelPL": "Adrian Gunnell",
+	"page_titlePL": "Adrian Gunnell"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4397728",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Adrian Rosa"
+}, {
+	"item": "http://www.wikidata.org/entity/Q50821233",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Alan Trigg"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4709818",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -68,6 +757,11 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Albert Cope"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4096095",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Alec Brown"
 }, {
 	"item": "http://www.wikidata.org/entity/Q22098090",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -98,6 +792,11 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Allan Taylor"
 }, {
+	"item": "http://www.wikidata.org/entity/Q299898",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Allison Fisher"
+}, {
 	"item": "http://www.wikidata.org/entity/Q106421249",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -109,6 +808,13 @@
 	"LabelEN": "Andrew Higginson",
 	"LabelPL": "Andrew Higginson",
 	"page_titlePL": "Andrew Higginson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q506607",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Andrew Norman",
+	"LabelPL": "Andrew Norman",
+	"page_titlePL": "Andrew Norman"
 }, {
 	"item": "http://www.wikidata.org/entity/Q526156",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -122,10 +828,22 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Andy Lee"
 }, {
+	"item": "http://www.wikidata.org/entity/Q9154396",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Andy Yates",
+	"LabelPL": "Andy Yates",
+	"page_titlePL": "Andy Yates"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4481315",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Ann-Marie Farren"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4091011",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Anthony Bolsover"
 }, {
 	"item": "http://www.wikidata.org/entity/Q249808",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -138,6 +856,11 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Anthony Harris"
+}, {
+	"item": "http://www.wikidata.org/entity/Q20810517",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Antony Bolsover"
 }, {
 	"item": "http://www.wikidata.org/entity/Q19560204",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -167,6 +890,11 @@
 	"LabelEN": "Barry Pinches",
 	"LabelPL": "Barry Pinches",
 	"page_titlePL": "Barry Pinches"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4479807",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Barry West"
 }, {
 	"item": "http://www.wikidata.org/entity/Q85013867",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -220,6 +948,21 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Brian Morgan"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4396475",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Brian Rowswell"
+}, {
+	"item": "http://www.wikidata.org/entity/Q26991338",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Brian Salmon"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4476164",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Caroline Walch"
+}, {
 	"item": "http://www.wikidata.org/entity/Q115869467",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -230,10 +973,37 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Chris Henry"
 }, {
+	"item": "http://www.wikidata.org/entity/Q2070556",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Chris Norbury",
+	"LabelPL": "Chris Norbury",
+	"page_titlePL": "Chris Norbury"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4422793",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Chris Scanlon"
+}, {
 	"item": "http://www.wikidata.org/entity/Q15771408",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Chris Wakelin"
+}, {
+	"item": "http://www.wikidata.org/entity/Q18517461",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Christopher Keogan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4529658",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Clive Everton"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110477303",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Colin Morton"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4079416",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -252,20 +1022,47 @@
 	"LabelPL": "Craig Steadman",
 	"page_titlePL": "Craig Steadman"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4476177",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Daniel Ward"
+}, {
+	"item": "http://www.wikidata.org/entity/Q5220367",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Danny Fowler"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4222965",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Darren Clarke"
+}, {
+	"item": "http://www.wikidata.org/entity/Q19726811",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Darryl Hill"
 }, {
 	"item": "http://www.wikidata.org/entity/Q106642764",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Darryn Walker"
 }, {
+	"item": "http://www.wikidata.org/entity/Q926540",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Daryl Peach"
+}, {
 	"item": "http://www.wikidata.org/entity/Q105046866",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Dave Chalmers"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4484795",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Dave Finbow",
+	"LabelPL": "David Finbow",
+	"page_titlePL": "David Finbow"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4138262",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -278,6 +1075,11 @@
 	"LabelEN": "Dave Harold",
 	"LabelPL": "Dave Harold",
 	"page_titlePL": "Dave Harold"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4282523",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Dave Martin"
 }, {
 	"item": "http://www.wikidata.org/entity/Q1174544",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -293,10 +1095,22 @@
 	"LabelPL": "David Grace",
 	"page_titlePL": "David Grace"
 }, {
+	"item": "http://www.wikidata.org/entity/Q1174594",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "David Gray",
+	"LabelPL": "David Gray (snookerzysta)",
+	"page_titlePL": "David Gray (snookerzysta)"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4148991",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "David Greaves"
+}, {
+	"item": "http://www.wikidata.org/entity/Q23007599",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "David Hall"
 }, {
 	"item": "http://www.wikidata.org/entity/Q16671292",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -325,15 +1139,44 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Dennis Hughes"
 }, {
+	"item": "http://www.wikidata.org/entity/Q504726",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Dennis Taylor",
+	"LabelPL": "Dennis Taylor",
+	"page_titlePL": "Dennis Taylor (snookerzysta)"
+}, {
 	"item": "http://www.wikidata.org/entity/Q105044735",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Derek Heaton"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4275599",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Dermot McGlinchey",
+	"LabelPL": "Dermot McGlinchey",
+	"page_titlePL": "Dermot McGlinchey"
+}, {
+	"item": "http://www.wikidata.org/entity/Q5277104",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Dilwyn John"
+}, {
 	"item": "http://www.wikidata.org/entity/Q104425061",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Doug French"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110074333",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Eddie Barker"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110229300",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Eddie Manning"
 }, {
 	"item": "http://www.wikidata.org/entity/Q17018496",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -355,10 +1198,32 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Eric Lawlor"
 }, {
+	"item": "http://www.wikidata.org/entity/Q66838019",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Eva Collins"
+}, {
+	"item": "http://www.wikidata.org/entity/Q80093964",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Eva Palmius"
+}, {
 	"item": "http://www.wikidata.org/entity/Q80090963",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Evelyn Morland-Smith"
+}, {
+	"item": "http://www.wikidata.org/entity/Q84767952",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Frank Callan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1452267",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Fred Davis",
+	"LabelPL": "Fred Davis",
+	"page_titlePL": "Fred Davis (snookerzysta)"
 }, {
 	"item": "http://www.wikidata.org/entity/Q3086878",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -367,10 +1232,20 @@
 	"LabelPL": "Fred Lawrence",
 	"page_titlePL": "Fred Lawrence"
 }, {
+	"item": "http://www.wikidata.org/entity/Q22097875",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Fred Smith"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4372064",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Gary Ponting"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1400826",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Gary Wilkinson"
 }, {
 	"item": "http://www.wikidata.org/entity/Q14178406",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -399,15 +1274,32 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Graham Cripsey"
 }, {
+	"item": "http://www.wikidata.org/entity/Q2029705",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Graham Miles",
+	"LabelPL": "Graham Miles",
+	"page_titlePL": "Graham Miles"
+}, {
 	"item": "http://www.wikidata.org/entity/Q16935124",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Hammad Miah"
 }, {
+	"item": "http://www.wikidata.org/entity/Q16207950",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Hannah Jones"
+}, {
 	"item": "http://www.wikidata.org/entity/Q51881110",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Harvey Chandler"
+}, {
+	"item": "http://www.wikidata.org/entity/Q85766323",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Herbert Holt"
 }, {
 	"item": "http://www.wikidata.org/entity/Q21005214",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -418,6 +1310,11 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Ian Burns"
+}, {
+	"item": "http://www.wikidata.org/entity/Q17305961",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Ian Glover"
 }, {
 	"item": "http://www.wikidata.org/entity/Q55367515",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -431,6 +1328,11 @@
 	"LabelPL": "Ian McCulloch",
 	"page_titlePL": "Ian McCulloch"
 }, {
+	"item": "http://www.wikidata.org/entity/Q110229586",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Ian Sargeant"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4470112",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -440,6 +1342,11 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Jack Fitzmaurice"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4215548",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Jack Karnehm"
 }, {
 	"item": "http://www.wikidata.org/entity/Q1646019",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -457,6 +1364,13 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "James Leadbetter"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2510725",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "James McBain",
+	"LabelPL": "James McBain",
+	"page_titlePL": "James McBain"
 }, {
 	"item": "http://www.wikidata.org/entity/Q6144033",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -502,10 +1416,20 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Jamie Woodman"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4482936",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Jason Ferguson"
+}, {
 	"item": "http://www.wikidata.org/entity/Q55614946",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Jason Smith"
+}, {
+	"item": "http://www.wikidata.org/entity/Q20712472",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Jason Weston"
 }, {
 	"item": "http://www.wikidata.org/entity/Q105069173",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -526,6 +1450,11 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Jim Chambers"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4292852",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Jim Meadowcroft"
 }, {
 	"item": "http://www.wikidata.org/entity/Q2065033",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -548,6 +1477,25 @@
 	"LabelPL": "Jimmy White",
 	"page_titlePL": "Jimmy White"
 }, {
+	"item": "http://www.wikidata.org/entity/Q357473",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Joe Davis",
+	"LabelPL": "Joe Davis",
+	"page_titlePL": "Joe Davis"
+}, {
+	"item": "http://www.wikidata.org/entity/Q930905",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Joe Johnson",
+	"LabelPL": "Joe Johnson",
+	"page_titlePL": "Joe Johnson (snookerzysta)"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4340884",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Joe O'Boye"
+}, {
 	"item": "http://www.wikidata.org/entity/Q52301651",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -562,6 +1510,11 @@
 	"LabelPL": "Joe Perry",
 	"page_titlePL": "Joe Perry (snookerzysta)"
 }, {
+	"item": "http://www.wikidata.org/entity/Q6214084",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Joel Walker"
+}, {
 	"item": "http://www.wikidata.org/entity/Q14656041",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -572,10 +1525,25 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "John Barrie"
 }, {
+	"item": "http://www.wikidata.org/entity/Q13410382",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "John Dunning"
+}, {
+	"item": "http://www.wikidata.org/entity/Q21064536",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "John Giles"
+}, {
 	"item": "http://www.wikidata.org/entity/Q68968007",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "John Hargreaves"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4254492",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "John Lardner"
 }, {
 	"item": "http://www.wikidata.org/entity/Q918394",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -583,6 +1551,13 @@
 	"LabelEN": "John Parrott",
 	"LabelPL": "John Parrott",
 	"page_titlePL": "John Parrott"
+}, {
+	"item": "http://www.wikidata.org/entity/Q957789",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "John Pulman",
+	"LabelPL": "John Pulman",
+	"page_titlePL": "John Pulman"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4394440",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -595,6 +1570,11 @@
 	"LabelEN": "John Spencer",
 	"LabelPL": "John Spencer",
 	"page_titlePL": "John Spencer (snookerzysta)"
+}, {
+	"item": "http://www.wikidata.org/entity/Q723382",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "John Virgo"
 }, {
 	"item": "http://www.wikidata.org/entity/Q48354478",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -621,6 +1601,13 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Jonathan Birch"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4096106",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Jordan Brown",
+	"LabelPL": "Jordan Brown",
+	"page_titlePL": "Jordan Brown"
+}, {
 	"item": "http://www.wikidata.org/entity/Q313507",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -632,6 +1619,13 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "June Banks"
+}, {
+	"item": "http://www.wikidata.org/entity/Q551903",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Justin Astley",
+	"LabelPL": "Justin Astley",
+	"page_titlePL": "Justin Astley"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4097097",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -653,6 +1647,31 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Katie Henrick"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4485200",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Kelly Fisher"
+}, {
+	"item": "http://www.wikidata.org/entity/Q21664853",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Kelsall Prince"
+}, {
+	"item": "http://www.wikidata.org/entity/Q21066124",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Ken Owers"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4526287",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Kim Shaw"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4219403",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Kingsley Kennerley"
+}, {
 	"item": "http://www.wikidata.org/entity/Q2070126",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -667,10 +1686,32 @@
 	"LabelPL": "Kyren Wilson",
 	"page_titlePL": "Kyren Wilson"
 }, {
+	"item": "http://www.wikidata.org/entity/Q113006454",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Lawrie Annandale"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4385585",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Lee Page"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4394980",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Lee Richardson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2510741",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Lee Spick",
+	"LabelPL": "Lee Spick",
+	"page_titlePL": "Lee Spick"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4149762",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Leigh Griffin"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4164118",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -688,6 +1729,21 @@
 	"LabelEN": "Liam Highfield",
 	"LabelPL": "Liam Highfield",
 	"page_titlePL": "Liam Highfield"
+}, {
+	"item": "http://www.wikidata.org/entity/Q111151880",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Liliya Cerush"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67202349",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Lisa Ingall"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4245548",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Lisa Quick"
 }, {
 	"item": "http://www.wikidata.org/entity/Q64341962",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -709,10 +1765,32 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Malcolm Bradley"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4485204",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Mandy Fisher"
+}, {
+	"item": "http://www.wikidata.org/entity/Q692537",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Marcus Campbell",
+	"LabelPL": "Marcus Campbell",
+	"page_titlePL": "Marcus Campbell"
+}, {
+	"item": "http://www.wikidata.org/entity/Q111151109",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Margarita Lisovenko"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4217086",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Maria Catalano"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4083831",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Mark Bennett"
 }, {
 	"item": "http://www.wikidata.org/entity/Q610953",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -720,6 +1798,11 @@
 	"LabelEN": "Mark Davis",
 	"LabelPL": "Mark Davis",
 	"page_titlePL": "Mark Davis (snookerzysta)"
+}, {
+	"item": "http://www.wikidata.org/entity/Q20979717",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Mark Flowerdew"
 }, {
 	"item": "http://www.wikidata.org/entity/Q1900065",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -757,6 +1840,11 @@
 	"LabelPL": "Mark Selby",
 	"page_titlePL": "Mark Selby"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4468409",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Mark Wildman"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4222977",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -781,12 +1869,44 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Martin Smith"
 }, {
+	"item": "http://www.wikidata.org/entity/Q110485015",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Matt Wilson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q514650",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Matthew Couch",
+	"LabelPL": "Matthew Couch",
+	"page_titlePL": "Matthew Couch"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110074349",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Matthew Davies"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4172045",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Matthew Day"
+}, {
 	"item": "http://www.wikidata.org/entity/Q1376846",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Matthew Selt",
 	"LabelPL": "Matthew Selt",
 	"page_titlePL": "Matthew Selt"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110169671",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Matwij Lahodsynskyj"
+}, {
+	"item": "http://www.wikidata.org/entity/Q66850721",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Maureen Baynton"
 }, {
 	"item": "http://www.wikidata.org/entity/Q21064552",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -810,6 +1930,16 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Michael Rhodes"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4522707",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Michael Shelton"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2793444",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Michael Wasley"
+}, {
 	"item": "http://www.wikidata.org/entity/Q19578246",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -826,6 +1956,11 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Mick Fisher"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2070136",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Mick Price"
 }, {
 	"item": "http://www.wikidata.org/entity/Q20986567",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -846,6 +1981,11 @@
 	"LabelPL": "Mike Hallett",
 	"page_titlePL": "Mike Hallett"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4476257",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Mike Watterson"
+}, {
 	"item": "http://www.wikidata.org/entity/Q17517190",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -856,6 +1996,16 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Munraj Pal"
 }, {
+	"item": "http://www.wikidata.org/entity/Q67088417",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Muriel Hazeldene"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4079418",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Nat Butler"
+}, {
 	"item": "http://www.wikidata.org/entity/Q950662",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -865,6 +2015,21 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Neil Mosley"
+}, {
+	"item": "http://www.wikidata.org/entity/Q963363",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Nick Dyson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110073514",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Nick Fruin"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110074279",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Nick Marsh"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4456164",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -908,10 +2073,27 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Oliver Lines"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4502280",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Pat Houlihan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110073530",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Pat Kenny"
+}, {
 	"item": "http://www.wikidata.org/entity/Q21005296",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Paul Cavney"
+}, {
+	"item": "http://www.wikidata.org/entity/Q976254",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Paul Davies",
+	"LabelPL": "Paul Davies",
+	"page_titlePL": "Paul Davies (snookerzysta)"
 }, {
 	"item": "http://www.wikidata.org/entity/Q536611",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -932,10 +2114,25 @@
 	"LabelPL": "Paul Hunter",
 	"page_titlePL": "Paul Hunter"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4276471",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Paul McPhillips"
+}, {
+	"item": "http://www.wikidata.org/entity/Q45914107",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Paul Medati"
+}, {
 	"item": "http://www.wikidata.org/entity/Q107300770",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Paul Sweeny"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110476038",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Paul Tanner"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4468403",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -966,6 +2163,21 @@
 	"LabelPL": "Peter Lines",
 	"page_titlePL": "Peter Lines"
 }, {
+	"item": "http://www.wikidata.org/entity/Q110489936",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Peter McCullagh"
+}, {
+	"item": "http://www.wikidata.org/entity/Q629749",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Ram Vaswani"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4529901",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Ray Edmonds"
+}, {
 	"item": "http://www.wikidata.org/entity/Q283442",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -977,6 +2189,13 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Rebecca Kenna"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1320148",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Rex Williams",
+	"LabelPL": "Rex Williams",
+	"page_titlePL": "Rex Williams"
 }, {
 	"item": "http://www.wikidata.org/entity/Q23061972",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -1012,6 +2231,16 @@
 	"LabelPL": "Robert Milkins",
 	"page_titlePL": "Robert Milkins"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4442558",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Robert Stephen"
+}, {
+	"item": "http://www.wikidata.org/entity/Q80094698",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Rochelle Woods"
+}, {
 	"item": "http://www.wikidata.org/entity/Q2094621",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -1028,6 +2257,11 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Roger Bales"
+}, {
+	"item": "http://www.wikidata.org/entity/Q21064636",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Roger Garrett"
 }, {
 	"item": "http://www.wikidata.org/entity/Q104224363",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -1047,6 +2281,11 @@
 	"LabelEN": "Rory McLeod",
 	"LabelPL": "Rory McLeod",
 	"page_titlePL": "Rory McLeod"
+}, {
+	"item": "http://www.wikidata.org/entity/Q66691659",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Ruth Harrison"
 }, {
 	"item": "http://www.wikidata.org/entity/Q16979868",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -1090,12 +2329,41 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Sean Storey"
 }, {
+	"item": "http://www.wikidata.org/entity/Q1691481",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Shailesh Jogia",
+	"LabelPL": "Shailesh Jogia",
+	"page_titlePL": "Shailesh Jogia"
+}, {
+	"item": "http://www.wikidata.org/entity/Q21663295",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Shaun Mellish"
+}, {
 	"item": "http://www.wikidata.org/entity/Q318765",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Shaun Murphy",
 	"LabelPL": "Shaun Murphy",
 	"page_titlePL": "Shaun Murphy"
+}, {
+	"item": "http://www.wikidata.org/entity/Q101094312",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Sid Hood"
+}, {
+	"item": "http://www.wikidata.org/entity/Q24896319",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Sidney Fry"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2282003",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Sidney Smith",
+	"LabelPL": "Sidney Smith",
+	"page_titlePL": "Sidney Smith"
 }, {
 	"item": "http://www.wikidata.org/entity/Q1338129",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -1104,15 +2372,35 @@
 	"LabelPL": "Simon Bedford",
 	"page_titlePL": "Simon Bedford"
 }, {
+	"item": "http://www.wikidata.org/entity/Q21005692",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Spencer Dunn"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4497595",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Stacey Hillyard"
+}, {
 	"item": "http://www.wikidata.org/entity/Q116671751",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Stan Moody"
 }, {
+	"item": "http://www.wikidata.org/entity/Q21664792",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Stanley Newman"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4240005",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Stephen Craigie"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110228049",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Stephen Kershaw"
 }, {
 	"item": "http://www.wikidata.org/entity/Q713683",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -1145,15 +2433,35 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Steve Duggan"
 }, {
+	"item": "http://www.wikidata.org/entity/Q1798956",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Steve James"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4159707",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Steve Judd"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4266424",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Steve Longworth"
+}, {
 	"item": "http://www.wikidata.org/entity/Q48572237",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Steve Meakin"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4328347",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Steve Newbury"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4377479",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Steve Prest"
 }, {
 	"item": "http://www.wikidata.org/entity/Q18128507",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -1167,20 +2475,89 @@
 	"LabelPL": "Stuart Bingham",
 	"page_titlePL": "Stuart Bingham"
 }, {
+	"item": "http://www.wikidata.org/entity/Q2357838",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Stuart Carrington"
+}, {
 	"item": "http://www.wikidata.org/entity/Q21170730",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Stuart Mann"
+}, {
+	"item": "http://www.wikidata.org/entity/Q533641",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Stuart Pettman",
+	"LabelPL": "Stuart Pettman",
+	"page_titlePL": "Stuart Pettman"
 }, {
 	"item": "http://www.wikidata.org/entity/Q21064537",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Stuart Reardon"
 }, {
+	"item": "http://www.wikidata.org/entity/Q65929257",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Sue Foster"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110073881",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Sunit Vaswani"
+}, {
+	"item": "http://www.wikidata.org/entity/Q21067207",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Surinder Gill"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67202358",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Suzie Opacic"
+}, {
+	"item": "http://www.wikidata.org/entity/Q61336044",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Syd Wilson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q22097886",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Sydney Lee"
+}, {
+	"item": "http://www.wikidata.org/entity/Q19944830",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Sydney Wilson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q713009",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Terry Griffiths",
+	"LabelPL": "Terry Griffiths",
+	"page_titlePL": "Terry Griffiths"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4310542",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Terry Murphy"
+}, {
 	"item": "http://www.wikidata.org/entity/Q100189049",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Terry Whitthread"
+}, {
+	"item": "http://www.wikidata.org/entity/Q66691933",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Thelma Carpenter"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110074280",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Tim Bailey"
 }, {
 	"item": "http://www.wikidata.org/entity/Q981476",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -1203,6 +2580,18 @@
 	"LabelPL": "Tom Newman",
 	"page_titlePL": "Tom Newman"
 }, {
+	"item": "http://www.wikidata.org/entity/Q7817342",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Tom Reece"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2442492",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Tony Chappel",
+	"LabelPL": "Tony Chappel",
+	"page_titlePL": "Tony Chappel"
+}, {
 	"item": "http://www.wikidata.org/entity/Q1798305",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -1213,6 +2602,13 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Tony Knowles"
 }, {
+	"item": "http://www.wikidata.org/entity/Q1844801",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Tony Meo",
+	"LabelPL": "Tony Meo",
+	"page_titlePL": "Tony Meo"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4526289",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -1222,6 +2618,11 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Vera Selby"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4496057",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Vic Harris"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4096120",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -1235,6 +2636,13 @@
 	"LabelPL": "Wayne Cooper",
 	"page_titlePL": "Wayne Cooper"
 }, {
+	"item": "http://www.wikidata.org/entity/Q1248403",
+	"country": "http://www.wikidata.org/entity/Q21",
+	"countryLabel": "Anglia",
+	"LabelEN": "Willie Smith",
+	"LabelPL": "Willie Smith",
+	"page_titlePL": "Willie Smith"
+}, {
 	"item": "http://www.wikidata.org/entity/Q2066790",
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
@@ -1247,10 +2655,40 @@
 	"countryLabel": "Anglia",
 	"LabelEN": "Zak Surety"
 }, {
+	"item": "http://www.wikidata.org/entity/Q117741710",
+	"country": "http://www.wikidata.org/entity/Q211",
+	"countryLabel": "Łotwa",
+	"LabelEN": "Andrejs Pripjoks"
+}, {
+	"item": "http://www.wikidata.org/entity/Q26341917",
+	"country": "http://www.wikidata.org/entity/Q211",
+	"countryLabel": "Łotwa",
+	"LabelEN": "Rodion Judin"
+}, {
+	"item": "http://www.wikidata.org/entity/Q26827905",
+	"country": "http://www.wikidata.org/entity/Q211",
+	"countryLabel": "Łotwa",
+	"LabelEN": "Tatjana Vasiljeva"
+}, {
+	"item": "http://www.wikidata.org/entity/Q85556579",
+	"country": "http://www.wikidata.org/entity/Q212",
+	"countryLabel": "Ukraina",
+	"LabelEN": "Anton Kazakov"
+}, {
+	"item": "http://www.wikidata.org/entity/Q96279422",
+	"country": "http://www.wikidata.org/entity/Q212",
+	"countryLabel": "Ukraina",
+	"LabelEN": "Iulian Boiko"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4106074",
 	"country": "http://www.wikidata.org/entity/Q212",
 	"countryLabel": "Ukraina",
 	"LabelEN": "Tetiana Vekker"
+}, {
+	"item": "http://www.wikidata.org/entity/Q12287016",
+	"country": "http://www.wikidata.org/entity/Q219",
+	"countryLabel": "Bułgaria",
+	"LabelEN": "Michelle Marinova"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4101605",
 	"country": "http://www.wikidata.org/entity/Q22",
@@ -1270,6 +2708,11 @@
 	"LabelEN": "Anthony McGill",
 	"LabelPL": "Anthony McGill",
 	"page_titlePL": "Anthony McGill"
+}, {
+	"item": "http://www.wikidata.org/entity/Q99477925",
+	"country": "http://www.wikidata.org/entity/Q22",
+	"countryLabel": "Szkocja",
+	"LabelEN": "Bert Demarco"
 }, {
 	"item": "http://www.wikidata.org/entity/Q538983",
 	"country": "http://www.wikidata.org/entity/Q22",
@@ -1369,6 +2812,11 @@
 	"countryLabel": "Szkocja",
 	"LabelEN": "Graham Horne"
 }, {
+	"item": "http://www.wikidata.org/entity/Q24845625",
+	"country": "http://www.wikidata.org/entity/Q22",
+	"countryLabel": "Szkocja",
+	"LabelEN": "Harry Stokes"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4529540",
 	"country": "http://www.wikidata.org/entity/Q22",
 	"countryLabel": "Szkocja",
@@ -1432,6 +2880,11 @@
 	"LabelPL": "Marcus Campbell",
 	"page_titlePL": "Marcus Campbell"
 }, {
+	"item": "http://www.wikidata.org/entity/Q66839710",
+	"country": "http://www.wikidata.org/entity/Q22",
+	"countryLabel": "Szkocja",
+	"LabelEN": "Margaret Lennan"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4090434",
 	"country": "http://www.wikidata.org/entity/Q22",
 	"countryLabel": "Szkocja",
@@ -1451,6 +2904,11 @@
 	"country": "http://www.wikidata.org/entity/Q22",
 	"countryLabel": "Szkocja",
 	"LabelEN": "Michael Collumb"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1928425",
+	"country": "http://www.wikidata.org/entity/Q22",
+	"countryLabel": "Szkocja",
+	"LabelEN": "Michael Leslie"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4274205",
 	"country": "http://www.wikidata.org/entity/Q22",
@@ -1513,6 +2971,13 @@
 	"LabelPL": "Stephen Hendry",
 	"page_titlePL": "Stephen Hendry"
 }, {
+	"item": "http://www.wikidata.org/entity/Q452142",
+	"country": "http://www.wikidata.org/entity/Q22",
+	"countryLabel": "Szkocja",
+	"LabelEN": "Stephen Maguire",
+	"LabelPL": "Stephen Maguire",
+	"page_titlePL": "Stephen Maguire"
+}, {
 	"item": "http://www.wikidata.org/entity/Q109094005",
 	"country": "http://www.wikidata.org/entity/Q22",
 	"countryLabel": "Szkocja",
@@ -1537,6 +3002,48 @@
 	"LabelPL": "Michael Georgiou",
 	"page_titlePL": "Michael Georgiou"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4093474",
+	"country": "http://www.wikidata.org/entity/Q233",
+	"countryLabel": "Malta",
+	"LabelEN": "Alex Borg"
+}, {
+	"item": "http://www.wikidata.org/entity/Q56439563",
+	"country": "http://www.wikidata.org/entity/Q233",
+	"countryLabel": "Malta",
+	"LabelEN": "Brian Cini"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107308090",
+	"country": "http://www.wikidata.org/entity/Q233",
+	"countryLabel": "Malta",
+	"LabelEN": "Duncan Bezzina"
+}, {
+	"item": "http://www.wikidata.org/entity/Q55643109",
+	"country": "http://www.wikidata.org/entity/Q233",
+	"countryLabel": "Malta",
+	"LabelEN": "Joe Grech"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4297064",
+	"country": "http://www.wikidata.org/entity/Q233",
+	"countryLabel": "Malta",
+	"LabelEN": "Paul Mifsud"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110426323",
+	"country": "http://www.wikidata.org/entity/Q233",
+	"countryLabel": "Malta",
+	"LabelEN": "Simon Zammit"
+}, {
+	"item": "http://www.wikidata.org/entity/Q640724",
+	"country": "http://www.wikidata.org/entity/Q233",
+	"countryLabel": "Malta",
+	"LabelEN": "Tony Drago",
+	"LabelPL": "Tony Drago",
+	"page_titlePL": "Tony Drago"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107725006",
+	"country": "http://www.wikidata.org/entity/Q233",
+	"countryLabel": "Malta",
+	"LabelEN": "Wilfred Asciak"
+}, {
 	"item": "http://www.wikidata.org/entity/Q65948591",
 	"country": "http://www.wikidata.org/entity/Q25",
 	"countryLabel": "Walia",
@@ -1559,6 +3066,11 @@
 	"countryLabel": "Walia",
 	"LabelEN": "Anthony Davies"
 }, {
+	"item": "http://www.wikidata.org/entity/Q52352220",
+	"country": "http://www.wikidata.org/entity/Q25",
+	"countryLabel": "Walia",
+	"LabelEN": "Ben Jones"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4470042",
 	"country": "http://www.wikidata.org/entity/Q25",
 	"countryLabel": "Walia",
@@ -1568,6 +3080,11 @@
 	"country": "http://www.wikidata.org/entity/Q25",
 	"countryLabel": "Walia",
 	"LabelEN": "Clive Everton"
+}, {
+	"item": "http://www.wikidata.org/entity/Q21005409",
+	"country": "http://www.wikidata.org/entity/Q25",
+	"countryLabel": "Walia",
+	"LabelEN": "Colin Roscoe"
 }, {
 	"item": "http://www.wikidata.org/entity/Q970221",
 	"country": "http://www.wikidata.org/entity/Q25",
@@ -1636,6 +3153,16 @@
 	"LabelPL": "Gary Owen",
 	"page_titlePL": "Gary Owen"
 }, {
+	"item": "http://www.wikidata.org/entity/Q104412790",
+	"country": "http://www.wikidata.org/entity/Q25",
+	"countryLabel": "Walia",
+	"LabelEN": "Geoff Thomas"
+}, {
+	"item": "http://www.wikidata.org/entity/Q19873079",
+	"country": "http://www.wikidata.org/entity/Q25",
+	"countryLabel": "Walia",
+	"LabelEN": "Gwyn Evans"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4379087",
 	"country": "http://www.wikidata.org/entity/Q25",
 	"countryLabel": "Walia",
@@ -1669,6 +3196,11 @@
 	"country": "http://www.wikidata.org/entity/Q25",
 	"countryLabel": "Walia",
 	"LabelEN": "Kishan Hirani"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67202252",
+	"country": "http://www.wikidata.org/entity/Q25",
+	"countryLabel": "Walia",
+	"LabelEN": "Laura Evans"
 }, {
 	"item": "http://www.wikidata.org/entity/Q2070562",
 	"country": "http://www.wikidata.org/entity/Q25",
@@ -1731,6 +3263,11 @@
 	"LabelEN": "Ray Reardon",
 	"LabelPL": "Ray Reardon",
 	"page_titlePL": "Ray Reardon"
+}, {
+	"item": "http://www.wikidata.org/entity/Q98019030",
+	"country": "http://www.wikidata.org/entity/Q25",
+	"countryLabel": "Walia",
+	"LabelEN": "Rhydian Richards"
 }, {
 	"item": "http://www.wikidata.org/entity/Q108839215",
 	"country": "http://www.wikidata.org/entity/Q25",
@@ -1816,6 +3353,28 @@
 	"LabelPL": "Gerard Greene",
 	"page_titlePL": "Gerard Greene"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4275822",
+	"country": "http://www.wikidata.org/entity/Q26",
+	"countryLabel": "Irlandia Północna",
+	"LabelEN": "Jack McLaughlin"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2030331",
+	"country": "http://www.wikidata.org/entity/Q26",
+	"countryLabel": "Irlandia Północna",
+	"LabelEN": "Jackie Rea",
+	"LabelPL": "Jackie Rea",
+	"page_titlePL": "Jackie Rea"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4378788",
+	"country": "http://www.wikidata.org/entity/Q26",
+	"countryLabel": "Irlandia Północna",
+	"LabelEN": "Jason Prince"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1691525",
+	"country": "http://www.wikidata.org/entity/Q26",
+	"countryLabel": "Irlandia Północna",
+	"LabelEN": "Joe Meara"
+}, {
 	"item": "http://www.wikidata.org/entity/Q722094",
 	"country": "http://www.wikidata.org/entity/Q26",
 	"countryLabel": "Irlandia Północna",
@@ -1842,6 +3401,13 @@
 	"LabelPL": "Mark Allen",
 	"page_titlePL": "Mark Allen (snookerzysta)"
 }, {
+	"item": "http://www.wikidata.org/entity/Q1338102",
+	"country": "http://www.wikidata.org/entity/Q26",
+	"countryLabel": "Irlandia Północna",
+	"LabelEN": "Patrick Wallace",
+	"LabelPL": "Patrick Wallace",
+	"page_titlePL": "Patrick Wallace"
+}, {
 	"item": "http://www.wikidata.org/entity/Q107604994",
 	"country": "http://www.wikidata.org/entity/Q26",
 	"countryLabel": "Irlandia Północna",
@@ -1857,20 +3423,333 @@
 	"countryLabel": "Irlandia Północna",
 	"LabelEN": "Tommy Murphy"
 }, {
+	"item": "http://www.wikidata.org/entity/Q96279035",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Aaron Hill"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4219121",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Billy Kelly"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4340896",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Brendan O'Donoghue"
+}, {
+	"item": "http://www.wikidata.org/entity/Q671965",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Colm Gilcreest"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4275632",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "David (Dave) McDonnell"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1174747",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "David Hogan",
+	"LabelPL": "David Hogan",
+	"page_titlePL": "David Hogan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q541747",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "David Morris",
+	"LabelPL": "David Morris",
+	"page_titlePL": "David Morris (snookerzysta)"
+}, {
+	"item": "http://www.wikidata.org/entity/Q21104281",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Dessie Sheehan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4502685",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Eugene Hughes"
+}, {
+	"item": "http://www.wikidata.org/entity/Q918418",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Fergal O'Brien",
+	"LabelPL": "Fergal O'Brien",
+	"page_titlePL": "Fergal O’Brien"
+}, {
+	"item": "http://www.wikidata.org/entity/Q42817659",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Greg Casey"
+}, {
+	"item": "http://www.wikidata.org/entity/Q108945760",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Jason Devaney"
+}, {
 	"item": "http://www.wikidata.org/entity/Q66405272",
 	"country": "http://www.wikidata.org/entity/Q27",
 	"countryLabel": "Irlandia",
 	"LabelEN": "Joe Brady"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1389386",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Joe Delaney",
+	"LabelPL": "Joe Delaney",
+	"page_titlePL": "Joe Delaney"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4340884",
 	"country": "http://www.wikidata.org/entity/Q27",
 	"countryLabel": "Irlandia",
 	"LabelEN": "Joe O'Boye"
 }, {
+	"item": "http://www.wikidata.org/entity/Q22704199",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Josh Boileau"
+}, {
+	"item": "http://www.wikidata.org/entity/Q335867",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Ken Doherty",
+	"LabelPL": "Ken Doherty",
+	"page_titlePL": "Ken Doherty (snookerzysta)"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4483017",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Leo Fernandez"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107307144",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Martin McCrudden"
+}, {
+	"item": "http://www.wikidata.org/entity/Q654984",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Michael Judge",
+	"LabelPL": "Michael Judge",
+	"page_titlePL": "Michael Judge"
+}, {
+	"item": "http://www.wikidata.org/entity/Q21005206",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Paddy Browne"
+}, {
+	"item": "http://www.wikidata.org/entity/Q63489977",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Pascal Burke"
+}, {
+	"item": "http://www.wikidata.org/entity/Q473114",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Patsy Fagan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q20687551",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Paul Watchorn"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107343458",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Robert Murphy"
+}, {
+	"item": "http://www.wikidata.org/entity/Q3438218",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Rodney Goggins"
+}, {
+	"item": "http://www.wikidata.org/entity/Q72066298",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Ross Bulman"
+}, {
+	"item": "http://www.wikidata.org/entity/Q55367520",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Stephen Murphy"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4340906",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Stephen O'Connor"
+}, {
+	"item": "http://www.wikidata.org/entity/Q28936793",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "TJ Dowling"
+}, {
+	"item": "http://www.wikidata.org/entity/Q97319003",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Tony Kearney"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4277577",
+	"country": "http://www.wikidata.org/entity/Q27",
+	"countryLabel": "Irlandia",
+	"LabelEN": "Vincent Muldoon"
+}, {
+	"item": "http://www.wikidata.org/entity/Q117741650",
+	"country": "http://www.wikidata.org/entity/Q28",
+	"countryLabel": "Węgry",
+	"LabelEN": "Bulcsú Révész"
+}, {
+	"item": "http://www.wikidata.org/entity/Q117214482",
+	"country": "http://www.wikidata.org/entity/Q29",
+	"countryLabel": "Hiszpania",
+	"LabelEN": "Oscar Medela"
+}, {
+	"item": "http://www.wikidata.org/entity/Q112039526",
+	"country": "http://www.wikidata.org/entity/Q30",
+	"countryLabel": "Stany Zjednoczone",
+	"LabelEN": "Ahmed Aly"
+}, {
+	"item": "http://www.wikidata.org/entity/Q115869512",
+	"country": "http://www.wikidata.org/entity/Q30",
+	"countryLabel": "Stany Zjednoczone",
+	"LabelEN": "Harry Lukens"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1681032",
+	"country": "http://www.wikidata.org/entity/Q30",
+	"countryLabel": "Stany Zjednoczone",
+	"LabelEN": "Jim Rempe"
+}, {
+	"item": "http://www.wikidata.org/entity/Q97667070",
+	"country": "http://www.wikidata.org/entity/Q30",
+	"countryLabel": "Stany Zjednoczone",
+	"LabelEN": "Paul Kimura"
+}, {
+	"item": "http://www.wikidata.org/entity/Q96333272",
+	"country": "http://www.wikidata.org/entity/Q30",
+	"countryLabel": "Stany Zjednoczone",
+	"LabelEN": "Raymond Fung"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1265924",
+	"country": "http://www.wikidata.org/entity/Q30",
+	"countryLabel": "Stany Zjednoczone",
+	"LabelEN": "Steve Mizerak"
+}, {
+	"item": "http://www.wikidata.org/entity/Q97666573",
+	"country": "http://www.wikidata.org/entity/Q30",
+	"countryLabel": "Stany Zjednoczone",
+	"LabelEN": "Tom Kollins"
+}, {
+	"item": "http://www.wikidata.org/entity/Q61813112",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Ben Mertens",
+	"LabelPL": "Ben Mertens",
+	"page_titlePL": "Ben Mertens"
+}, {
+	"item": "http://www.wikidata.org/entity/Q879628",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Bjorn Haneveer",
+	"LabelPL": "Bjorn Haneveer",
+	"page_titlePL": "Bjorn Haneveer"
+}, {
 	"item": "http://www.wikidata.org/entity/Q96788809",
 	"country": "http://www.wikidata.org/entity/Q31",
 	"countryLabel": "Belgia",
 	"LabelEN": "Chris Henry"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107649898",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Daan Leyssen"
+}, {
+	"item": "http://www.wikidata.org/entity/Q55652666",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Danny Lathouwers"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107431959",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Jeff Jacobs"
+}, {
+	"item": "http://www.wikidata.org/entity/Q27067754",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Johan van Goetham"
+}, {
+	"item": "http://www.wikidata.org/entity/Q111980233",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Julien Leclercq"
+}, {
+	"item": "http://www.wikidata.org/entity/Q104316106",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Kevin Hanssens"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4500457",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Kevin Van Hove-Speltincx"
+}, {
+	"item": "http://www.wikidata.org/entity/Q920395",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Luca Brecel",
+	"LabelPL": "Luca Brecel",
+	"page_titlePL": "Luca Brecel"
+}, {
+	"item": "http://www.wikidata.org/entity/Q47090570",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Mario Geudens"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2250312",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Patrick Delsemme"
+}, {
+	"item": "http://www.wikidata.org/entity/Q108937153",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Peter Bullen"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107958846",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Stefan Van Der Borght"
+}, {
+	"item": "http://www.wikidata.org/entity/Q27707316",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Steve Lemmens"
+}, {
+	"item": "http://www.wikidata.org/entity/Q104248035",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Tomasz Skalski"
+}, {
+	"item": "http://www.wikidata.org/entity/Q19414392",
+	"country": "http://www.wikidata.org/entity/Q31",
+	"countryLabel": "Belgia",
+	"LabelEN": "Yvan Van Velthoven"
+}, {
+	"item": "http://www.wikidata.org/entity/Q22916907",
+	"country": "http://www.wikidata.org/entity/Q33",
+	"countryLabel": "Finlandia",
+	"LabelEN": "Heikki Niva"
+}, {
+	"item": "http://www.wikidata.org/entity/Q16991294",
+	"country": "http://www.wikidata.org/entity/Q33",
+	"countryLabel": "Finlandia",
+	"LabelEN": "Jyri Virtanen"
+}, {
+	"item": "http://www.wikidata.org/entity/Q16299666",
+	"country": "http://www.wikidata.org/entity/Q33",
+	"countryLabel": "Finlandia",
+	"LabelEN": "Mika Karhu"
 }, {
 	"item": "http://www.wikidata.org/entity/Q1366283",
 	"country": "http://www.wikidata.org/entity/Q33",
@@ -1879,15 +3758,369 @@
 	"LabelPL": "Robin Hull",
 	"page_titlePL": "Robin Hull"
 }, {
+	"item": "http://www.wikidata.org/entity/Q12784710",
+	"country": "http://www.wikidata.org/entity/Q34",
+	"countryLabel": "Szwecja",
+	"LabelEN": "Ann Sofie Löfgren"
+}, {
+	"item": "http://www.wikidata.org/entity/Q64816366",
+	"country": "http://www.wikidata.org/entity/Q34",
+	"countryLabel": "Szwecja",
+	"LabelEN": "Monika Margeta"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2632209",
+	"country": "http://www.wikidata.org/entity/Q35",
+	"countryLabel": "Dania",
+	"LabelEN": "Daniel Kandi"
+}, {
+	"item": "http://www.wikidata.org/entity/Q106509871",
+	"country": "http://www.wikidata.org/entity/Q35",
+	"countryLabel": "Dania",
+	"LabelEN": "Rune Kampe"
+}, {
+	"item": "http://www.wikidata.org/entity/Q23061914",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Adam Stefanow",
+	"LabelPL": "Adam Stefanow",
+	"page_titlePL": "Adam Stefanów"
+}, {
+	"item": "http://www.wikidata.org/entity/Q97482757",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Antoni Kowalski",
+	"LabelPL": "Antoni Kowalski",
+	"page_titlePL": "Antoni Kowalski (snookerzysta)"
+}, {
+	"item": "http://www.wikidata.org/entity/Q441671",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Bogdan Wołkowski",
+	"LabelPL": "Bogdan Wołkowski",
+	"page_titlePL": "Bogdan Wołkowski"
+}, {
+	"item": "http://www.wikidata.org/entity/Q5648715",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Hanna Mergies"
+}, {
+	"item": "http://www.wikidata.org/entity/Q11720898",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Jarosław Kowalski",
+	"LabelPL": "Jarosław Kowalski",
+	"page_titlePL": "Jarosław Kowalski"
+}, {
+	"item": "http://www.wikidata.org/entity/Q979045",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Kacper Filipiak",
+	"LabelPL": "Kacper Filipiak",
+	"page_titlePL": "Kacper Filipiak"
+}, {
+	"item": "http://www.wikidata.org/entity/Q11749808",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Krzysztof Wróbel",
+	"LabelPL": "Krzysztof Wróbel",
+	"page_titlePL": "Krzysztof Wróbel"
+}, {
+	"item": "http://www.wikidata.org/entity/Q23061951",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Kuba Sawicki"
+}, {
+	"item": "http://www.wikidata.org/entity/Q11767723",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Marcin Nitschke",
+	"LabelPL": "Marcin Nitschke",
+	"page_titlePL": "Marcin Nitschke"
+}, {
+	"item": "http://www.wikidata.org/entity/Q23638990",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Marek Derek"
+}, {
+	"item": "http://www.wikidata.org/entity/Q11768620",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Marek Zubrzycki",
+	"LabelPL": "Marek Zubrzycki",
+	"page_titlePL": "Marek Zubrzycki"
+}, {
+	"item": "http://www.wikidata.org/entity/Q11770205",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Mariusz Sirko",
+	"LabelPL": "Mariusz Sirko",
+	"page_titlePL": "Mariusz Sirko"
+}, {
+	"item": "http://www.wikidata.org/entity/Q104244757",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Mateusz Baranowski"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4190497",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Michal Zielinski",
+	"LabelPL": "Michał Zieliński",
+	"page_titlePL": "Michał Zieliński (snookerzysta)"
+}, {
+	"item": "http://www.wikidata.org/entity/Q11828922",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Przemysław Kruk",
+	"LabelPL": "Przemysław Kruk",
+	"page_titlePL": "Przemysław Kruk"
+}, {
+	"item": "http://www.wikidata.org/entity/Q11833579",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Rafał Górecki",
+	"LabelPL": "Rafał Górecki",
+	"page_titlePL": "Rafał Górecki"
+}, {
+	"item": "http://www.wikidata.org/entity/Q6959473",
+	"country": "http://www.wikidata.org/entity/Q36",
+	"countryLabel": "Polska",
+	"LabelEN": "Rafał Jewtuch",
+	"LabelPL": "Rafał Jewtuch",
+	"page_titlePL": "Rafał Jewtuch"
+}, {
+	"item": "http://www.wikidata.org/entity/Q32145691",
+	"country": "http://www.wikidata.org/entity/Q37",
+	"countryLabel": "Litwa",
+	"LabelEN": "Simona Milišauskaitė"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2643178",
+	"country": "http://www.wikidata.org/entity/Q39",
+	"countryLabel": "Szwajcaria",
+	"LabelEN": "Alexander Ursenbacher"
+}, {
+	"item": "http://www.wikidata.org/entity/Q99313168",
+	"country": "http://www.wikidata.org/entity/Q39",
+	"countryLabel": "Szwajcaria",
+	"LabelEN": "Luis Vetter"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2138739",
+	"country": "http://www.wikidata.org/entity/Q39",
+	"countryLabel": "Szwajcaria",
+	"LabelEN": "Regula Hitz"
+}, {
+	"item": "http://www.wikidata.org/entity/Q50818862",
+	"country": "http://www.wikidata.org/entity/Q40",
+	"countryLabel": "Austria",
+	"LabelEN": "Andreas Ploner"
+}, {
+	"item": "http://www.wikidata.org/entity/Q56586518",
+	"country": "http://www.wikidata.org/entity/Q40",
+	"countryLabel": "Austria",
+	"LabelEN": "Florian Nüßle"
+}, {
+	"item": "http://www.wikidata.org/entity/Q38286162",
+	"country": "http://www.wikidata.org/entity/Q79",
+	"countryLabel": "Egipt",
+	"LabelEN": "Basem Eltahhan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q20745621",
+	"country": "http://www.wikidata.org/entity/Q79",
+	"countryLabel": "Egipt",
+	"LabelEN": "Hatem Yassen"
+}, {
+	"item": "http://www.wikidata.org/entity/Q53678025",
+	"country": "http://www.wikidata.org/entity/Q79",
+	"countryLabel": "Egipt",
+	"LabelEN": "Mohamed Ibrahim"
+}, {
+	"item": "http://www.wikidata.org/entity/Q13422740",
+	"country": "http://www.wikidata.org/entity/Q79",
+	"countryLabel": "Egipt",
+	"LabelEN": "Mohamed Khairy"
+}, {
+	"item": "http://www.wikidata.org/entity/Q42817819",
+	"country": "http://www.wikidata.org/entity/Q79",
+	"countryLabel": "Egipt",
+	"LabelEN": "Wael Talaat"
+}, {
+	"item": "http://www.wikidata.org/entity/Q85950751",
+	"country": "http://www.wikidata.org/entity/Q79",
+	"countryLabel": "Egipt",
+	"LabelEN": "Yara Sharafeldin"
+}, {
+	"item": "http://www.wikidata.org/entity/Q105062188",
+	"country": "http://www.wikidata.org/entity/Q193619",
+	"countryLabel": "Związek Południowej Afryki",
+	"LabelEN": "Peter Mans"
+}, {
+	"item": "http://www.wikidata.org/entity/Q17198029",
+	"country": "http://www.wikidata.org/entity/Q1016",
+	"countryLabel": "Libia",
+	"LabelEN": "Khaled Belaid Abumdas"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67197072",
+	"country": "http://www.wikidata.org/entity/Q1028",
+	"countryLabel": "Maroko",
+	"LabelEN": "Amine Amiri"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67197024",
+	"country": "http://www.wikidata.org/entity/Q1028",
+	"countryLabel": "Maroko",
+	"LabelEN": "Hakima Kissai"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67197073",
+	"country": "http://www.wikidata.org/entity/Q1028",
+	"countryLabel": "Maroko",
+	"LabelEN": "Yassine Bellamine"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67196975",
+	"country": "http://www.wikidata.org/entity/Q1028",
+	"countryLabel": "Maroko",
+	"LabelEN": "Youssra Matine"
+}, {
+	"item": "http://www.wikidata.org/entity/Q105062709",
+	"country": "http://www.wikidata.org/entity/Q258",
+	"countryLabel": "Południowa Afryka",
+	"LabelEN": "Derek Mienie"
+}, {
+	"item": "http://www.wikidata.org/entity/Q79335915",
+	"country": "http://www.wikidata.org/entity/Q258",
+	"countryLabel": "Południowa Afryka",
+	"LabelEN": "François Ellis"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4393277",
+	"country": "http://www.wikidata.org/entity/Q258",
+	"countryLabel": "Południowa Afryka",
+	"LabelEN": "Fred van Rensburg",
+	"LabelPL": "Fred Van Rensburg",
+	"page_titlePL": "Fred Van Rensburg"
+}, {
+	"item": "http://www.wikidata.org/entity/Q20982058",
+	"country": "http://www.wikidata.org/entity/Q258",
+	"countryLabel": "Południowa Afryka",
+	"LabelEN": "Jimmy van Rensberg"
+}, {
+	"item": "http://www.wikidata.org/entity/Q6752574",
+	"country": "http://www.wikidata.org/entity/Q258",
+	"countryLabel": "Południowa Afryka",
+	"LabelEN": "Manuel Francisco"
+}, {
+	"item": "http://www.wikidata.org/entity/Q101526907",
+	"country": "http://www.wikidata.org/entity/Q258",
+	"countryLabel": "Południowa Afryka",
+	"LabelEN": "Mike Hines"
+}, {
+	"item": "http://www.wikidata.org/entity/Q721650",
+	"country": "http://www.wikidata.org/entity/Q258",
+	"countryLabel": "Południowa Afryka",
+	"LabelEN": "Perrie Mans",
+	"LabelPL": "Perrie Mans",
+	"page_titlePL": "Perrie Mans"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4492412",
 	"country": "http://www.wikidata.org/entity/Q258",
 	"countryLabel": "Południowa Afryka",
 	"LabelEN": "Peter Francisco"
 }, {
+	"item": "http://www.wikidata.org/entity/Q47090870",
+	"country": "http://www.wikidata.org/entity/Q258",
+	"countryLabel": "Południowa Afryka",
+	"LabelEN": "Robbie Grace"
+}, {
+	"item": "http://www.wikidata.org/entity/Q105064488",
+	"country": "http://www.wikidata.org/entity/Q258",
+	"countryLabel": "Południowa Afryka",
+	"LabelEN": "Roy Amdor"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1399752",
+	"country": "http://www.wikidata.org/entity/Q258",
+	"countryLabel": "Południowa Afryka",
+	"LabelEN": "Silvino Francisco",
+	"LabelPL": "Silvino Francisco",
+	"page_titlePL": "Silvino Francisco"
+}, {
+	"item": "http://www.wikidata.org/entity/Q5552605",
+	"country": "http://www.wikidata.org/entity/Q29999",
+	"countryLabel": "Holandia",
+	"LabelEN": "Gerrit bij de Leij"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107294744",
+	"country": "http://www.wikidata.org/entity/Q29999",
+	"countryLabel": "Holandia",
+	"LabelEN": "Mario Wehrmann"
+}, {
+	"item": "http://www.wikidata.org/entity/Q55892185",
+	"country": "http://www.wikidata.org/entity/Q29999",
+	"countryLabel": "Holandia",
+	"LabelEN": "Rolf de Jong"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4442927",
+	"country": "http://www.wikidata.org/entity/Q29999",
+	"countryLabel": "Holandia",
+	"LabelEN": "Roy Stolk"
+}, {
+	"item": "http://www.wikidata.org/entity/Q559352",
+	"country": "http://www.wikidata.org/entity/Q29999",
+	"countryLabel": "Holandia",
+	"LabelEN": "Stefan Mazrocis"
+}, {
+	"item": "http://www.wikidata.org/entity/Q106583353",
+	"country": "http://www.wikidata.org/entity/Q334",
+	"countryLabel": "Singapur",
+	"LabelEN": "Chan Keng Kwang"
+}, {
 	"item": "http://www.wikidata.org/entity/Q16199424",
 	"country": "http://www.wikidata.org/entity/Q334",
 	"countryLabel": "Singapur",
 	"LabelEN": "Peter Gilchrist"
+}, {
+	"item": "http://www.wikidata.org/entity/Q105286828",
+	"country": "http://www.wikidata.org/entity/Q347",
+	"countryLabel": "Liechtenstein",
+	"LabelEN": "Michael Patrick Seiter"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1566854",
+	"country": "http://www.wikidata.org/entity/Q398",
+	"countryLabel": "Bahrajn",
+	"LabelEN": "Habib Subah"
+}, {
+	"item": "http://www.wikidata.org/entity/Q81655063",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Adrian Ridley"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107000237",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Alan McDonald"
+}, {
+	"item": "http://www.wikidata.org/entity/Q71335377",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Anna Lynch"
+}, {
+	"item": "http://www.wikidata.org/entity/Q816532",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Ben Judge"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4933267",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Bob Marshall"
+}, {
+	"item": "http://www.wikidata.org/entity/Q5132744",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Cliff Rickard"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1277286",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Eddie Charlton",
+	"LabelPL": "Eddie Charlton",
+	"page_titlePL": "Eddie Charlton"
 }, {
 	"item": "http://www.wikidata.org/entity/Q287791",
 	"country": "http://www.wikidata.org/entity/Q408",
@@ -1896,10 +4129,175 @@
 	"LabelPL": "Gary Owen",
 	"page_titlePL": "Gary Owen"
 }, {
+	"item": "http://www.wikidata.org/entity/Q4470007",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Glen Wilkinson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q81070813",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Greg Jenkins"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1367386",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Horace Lindrum",
+	"LabelPL": "Horace Lindrum",
+	"page_titlePL": "Horace Lindrum"
+}, {
+	"item": "http://www.wikidata.org/entity/Q20985245",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Ian Anderson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q81546468",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "James Giannaros"
+}, {
+	"item": "http://www.wikidata.org/entity/Q105300490",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Jessica Woods"
+}, {
+	"item": "http://www.wikidata.org/entity/Q105754206",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Johl Younger"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4251090",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "John Campbell"
+}, {
+	"item": "http://www.wikidata.org/entity/Q6377282",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Kathy Parashis"
+}, {
+	"item": "http://www.wikidata.org/entity/Q25754315",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Kurt Dunham"
+}, {
+	"item": "http://www.wikidata.org/entity/Q81649139",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Leon Heywood"
+}, {
+	"item": "http://www.wikidata.org/entity/Q65929310",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Lesley McIlrath"
+}, {
+	"item": "http://www.wikidata.org/entity/Q81060018",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Lou Condo"
+}, {
+	"item": "http://www.wikidata.org/entity/Q33137033",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Matthew Bolton"
+}, {
+	"item": "http://www.wikidata.org/entity/Q16212147",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Michael Quinn"
+}, {
+	"item": "http://www.wikidata.org/entity/Q316176",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Neil Robertson",
+	"LabelPL": "Neil Robertson",
+	"page_titlePL": "Neil Robertson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4302387",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Paddy Morgan"
+}, {
 	"item": "http://www.wikidata.org/entity/Q81205141",
 	"country": "http://www.wikidata.org/entity/Q408",
 	"countryLabel": "Australia",
 	"LabelEN": "Philip Tarrant"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107746801",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Rex King"
+}, {
+	"item": "http://www.wikidata.org/entity/Q16729035",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Robby Foldvari"
+}, {
+	"item": "http://www.wikidata.org/entity/Q111317484",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Ryan Thomerson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q81210580",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Sam Frangie"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4297066",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Steve Mifsud"
+}, {
+	"item": "http://www.wikidata.org/entity/Q15771848",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Vinnie Calabrese"
+}, {
+	"item": "http://www.wikidata.org/entity/Q81212759",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Vladimir Potazsnyk"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2510757",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Warren King"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2470505",
+	"country": "http://www.wikidata.org/entity/Q408",
+	"countryLabel": "Australia",
+	"LabelEN": "Warren Simpson",
+	"LabelPL": "Warren Simpson",
+	"page_titlePL": "Warren Simpson"
+}, {
+	"item": "http://www.wikidata.org/entity/Q454768",
+	"country": "http://www.wikidata.org/entity/Q664",
+	"countryLabel": "Nowa Zelandia",
+	"LabelEN": "Chris McBreen",
+	"LabelPL": "Chris McBreen",
+	"page_titlePL": "Chris McBreen"
+}, {
+	"item": "http://www.wikidata.org/entity/Q919495",
+	"country": "http://www.wikidata.org/entity/Q664",
+	"countryLabel": "Nowa Zelandia",
+	"LabelEN": "Clark McConachy",
+	"LabelPL": "Clark McConachy",
+	"page_titlePL": "Clark McConachy"
+}, {
+	"item": "http://www.wikidata.org/entity/Q984514",
+	"country": "http://www.wikidata.org/entity/Q664",
+	"countryLabel": "Nowa Zelandia",
+	"LabelEN": "Dene O'Kane"
+}, {
+	"item": "http://www.wikidata.org/entity/Q55402101",
+	"country": "http://www.wikidata.org/entity/Q664",
+	"countryLabel": "Nowa Zelandia",
+	"LabelEN": "Edward James O'Donoghue"
+}, {
+	"item": "http://www.wikidata.org/entity/Q24040875",
+	"country": "http://www.wikidata.org/entity/Q664",
+	"countryLabel": "Nowa Zelandia",
+	"LabelEN": "Norman Powell Squire"
 }, {
 	"item": "http://www.wikidata.org/entity/Q357612",
 	"country": "http://www.wikidata.org/entity/Q668",
@@ -1908,20 +4306,100 @@
 	"LabelPL": "Aditya Mehta",
 	"page_titlePL": "Aditya Mehta"
 }, {
+	"item": "http://www.wikidata.org/entity/Q106315404",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Alok Kumar"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67607558",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Amee Kamani"
+}, {
+	"item": "http://www.wikidata.org/entity/Q110074320",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Amrik Cheema"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4777768",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Anuja Thakur"
+}, {
+	"item": "http://www.wikidata.org/entity/Q16154267",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Arantxa Sanchis"
+}, {
+	"item": "http://www.wikidata.org/entity/Q113633095",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Arvind Savur"
+}, {
 	"item": "http://www.wikidata.org/entity/Q18637267",
 	"country": "http://www.wikidata.org/entity/Q668",
 	"countryLabel": "Indie",
 	"LabelEN": "Brijesh Damani"
+}, {
+	"item": "http://www.wikidata.org/entity/Q17626703",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Chandra Hirjee"
+}, {
+	"item": "http://www.wikidata.org/entity/Q16728010",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Chitra Magimairaj"
 }, {
 	"item": "http://www.wikidata.org/entity/Q3351827",
 	"country": "http://www.wikidata.org/entity/Q668",
 	"countryLabel": "Indie",
 	"LabelEN": "Geet Sethi"
 }, {
+	"item": "http://www.wikidata.org/entity/Q112340105",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Himanshu Dinesh Jain"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1873737",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Lucky Vatnani"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4507056",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Manan Chandra"
+}, {
+	"item": "http://www.wikidata.org/entity/Q7089331",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Omprakesh Agrawal"
+}, {
 	"item": "http://www.wikidata.org/entity/Q1898291",
 	"country": "http://www.wikidata.org/entity/Q668",
 	"countryLabel": "Indie",
 	"LabelEN": "Pankaj Advani"
+}, {
+	"item": "http://www.wikidata.org/entity/Q18162928",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "R Umadevi Nagaraj"
+}, {
+	"item": "http://www.wikidata.org/entity/Q7631204",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Subhash Agarwal"
+}, {
+	"item": "http://www.wikidata.org/entity/Q19667512",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Vidya Pillai"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4291218",
+	"country": "http://www.wikidata.org/entity/Q668",
+	"countryLabel": "Indie",
+	"LabelEN": "Yasin Merchant"
 }, {
 	"item": "http://www.wikidata.org/entity/Q1367338",
 	"country": "http://www.wikidata.org/entity/Q766",
@@ -1940,15 +4418,114 @@
 	"countryLabel": "Iran",
 	"LabelEN": "Amir Sarkhosh"
 }, {
+	"item": "http://www.wikidata.org/entity/Q1630532",
+	"country": "http://www.wikidata.org/entity/Q794",
+	"countryLabel": "Iran",
+	"LabelEN": "Hossein Vafaei",
+	"LabelPL": "Hossein Vafaei",
+	"page_titlePL": "Hossein Vafaei"
+}, {
+	"item": "http://www.wikidata.org/entity/Q27927610",
+	"country": "http://www.wikidata.org/entity/Q794",
+	"countryLabel": "Iran",
+	"LabelEN": "Soheil Vahedi"
+}, {
 	"item": "http://www.wikidata.org/entity/Q20203532",
 	"country": "http://www.wikidata.org/entity/Q801",
 	"countryLabel": "Izrael",
 	"LabelEN": "Eden Sharav"
 }, {
+	"item": "http://www.wikidata.org/entity/Q18203542",
+	"country": "http://www.wikidata.org/entity/Q801",
+	"countryLabel": "Izrael",
+	"LabelEN": "Roey Fernandez"
+}, {
+	"item": "http://www.wikidata.org/entity/Q106419237",
+	"country": "http://www.wikidata.org/entity/Q801",
+	"countryLabel": "Izrael",
+	"LabelEN": "Shachar Ruberg"
+}, {
+	"item": "http://www.wikidata.org/entity/Q22279246",
+	"country": "http://www.wikidata.org/entity/Q833",
+	"countryLabel": "Malezja",
+	"LabelEN": "Moh Keen Hoo"
+}, {
+	"item": "http://www.wikidata.org/entity/Q107350917",
+	"country": "http://www.wikidata.org/entity/Q833",
+	"countryLabel": "Malezja",
+	"LabelEN": "Sam Chong"
+}, {
+	"item": "http://www.wikidata.org/entity/Q17517153",
+	"country": "http://www.wikidata.org/entity/Q833",
+	"countryLabel": "Malezja",
+	"LabelEN": "Thor Chuan Leong"
+}, {
+	"item": "http://www.wikidata.org/entity/Q111200588",
+	"country": "http://www.wikidata.org/entity/Q843",
+	"countryLabel": "Pakistan",
+	"LabelEN": "Ahsan Ramzan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q112675092",
+	"country": "http://www.wikidata.org/entity/Q843",
+	"countryLabel": "Pakistan",
+	"LabelEN": "Asjaq Iqbal"
+}, {
+	"item": "http://www.wikidata.org/entity/Q56824745",
+	"country": "http://www.wikidata.org/entity/Q843",
+	"countryLabel": "Pakistan",
+	"LabelEN": "Babar Masih"
+}, {
 	"item": "http://www.wikidata.org/entity/Q98216538",
 	"country": "http://www.wikidata.org/entity/Q843",
 	"countryLabel": "Pakistan",
 	"LabelEN": "Farakh Ajaib"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4295574",
+	"country": "http://www.wikidata.org/entity/Q843",
+	"countryLabel": "Pakistan",
+	"LabelEN": "Farhan Mirza"
+}, {
+	"item": "http://www.wikidata.org/entity/Q19881812",
+	"country": "http://www.wikidata.org/entity/Q843",
+	"countryLabel": "Pakistan",
+	"LabelEN": "Hamza Akbar"
+}, {
+	"item": "http://www.wikidata.org/entity/Q6403109",
+	"country": "http://www.wikidata.org/entity/Q843",
+	"countryLabel": "Pakistan",
+	"LabelEN": "Khurram Hussain Agha"
+}, {
+	"item": "http://www.wikidata.org/entity/Q6932416",
+	"country": "http://www.wikidata.org/entity/Q843",
+	"countryLabel": "Pakistan",
+	"LabelEN": "Muhammad Asif"
+}, {
+	"item": "http://www.wikidata.org/entity/Q43684595",
+	"country": "http://www.wikidata.org/entity/Q843",
+	"countryLabel": "Pakistan",
+	"LabelEN": "Muhammad Sajjad"
+}, {
+	"item": "http://www.wikidata.org/entity/Q6932794",
+	"country": "http://www.wikidata.org/entity/Q843",
+	"countryLabel": "Pakistan",
+	"LabelEN": "Muhammad Yousaf"
+}, {
+	"item": "http://www.wikidata.org/entity/Q6982239",
+	"country": "http://www.wikidata.org/entity/Q843",
+	"countryLabel": "Pakistan",
+	"LabelEN": "Naveen Perwani"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1338003",
+	"country": "http://www.wikidata.org/entity/Q843",
+	"countryLabel": "Pakistan",
+	"LabelEN": "Shokat Ali",
+	"LabelPL": "Shokat Ali",
+	"page_titlePL": "Shokat Ali"
+}, {
+	"item": "http://www.wikidata.org/entity/Q15781882",
+	"country": "http://www.wikidata.org/entity/Q846",
+	"countryLabel": "Katar",
+	"LabelEN": "Ahmed Saif"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4260665",
 	"country": "http://www.wikidata.org/entity/Q8646",
@@ -1960,15 +4537,45 @@
 	"countryLabel": "Hongkong",
 	"LabelEN": "Au Chi-wai"
 }, {
+	"item": "http://www.wikidata.org/entity/Q5070384",
+	"country": "http://www.wikidata.org/entity/Q8646",
+	"countryLabel": "Hongkong",
+	"LabelEN": "Chan Wai Ki"
+}, {
+	"item": "http://www.wikidata.org/entity/Q50114447",
+	"country": "http://www.wikidata.org/entity/Q8646",
+	"countryLabel": "Hongkong",
+	"LabelEN": "Chan Wok Ming"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4507013",
+	"country": "http://www.wikidata.org/entity/Q8646",
+	"countryLabel": "Hongkong",
+	"LabelEN": "Franky Chan"
+}, {
 	"item": "http://www.wikidata.org/entity/Q12789492",
 	"country": "http://www.wikidata.org/entity/Q8646",
 	"countryLabel": "Hongkong",
 	"LabelEN": "Fung Kwok Wai"
 }, {
+	"item": "http://www.wikidata.org/entity/Q716917",
+	"country": "http://www.wikidata.org/entity/Q8646",
+	"countryLabel": "Hongkong",
+	"LabelEN": "Jaique Ip"
+}, {
 	"item": "http://www.wikidata.org/entity/Q23011818",
 	"country": "http://www.wikidata.org/entity/Q8646",
 	"countryLabel": "Hongkong",
 	"LabelEN": "Ka Wai Cheung"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67201636",
+	"country": "http://www.wikidata.org/entity/Q8646",
+	"countryLabel": "Hongkong",
+	"LabelEN": "Katrina Wan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q106674026",
+	"country": "http://www.wikidata.org/entity/Q8646",
+	"countryLabel": "Hongkong",
+	"LabelEN": "Kenny Kwok"
 }, {
 	"item": "http://www.wikidata.org/entity/Q380594",
 	"country": "http://www.wikidata.org/entity/Q8646",
@@ -1977,13 +4584,184 @@
 	"LabelPL": "Marco Fu",
 	"page_titlePL": "Marco Fu"
 }, {
+	"item": "http://www.wikidata.org/entity/Q63925437",
+	"country": "http://www.wikidata.org/entity/Q8646",
+	"countryLabel": "Hongkong",
+	"LabelEN": "Mini Chu"
+}, {
 	"item": "http://www.wikidata.org/entity/Q4315319",
 	"country": "http://www.wikidata.org/entity/Q8646",
 	"countryLabel": "Hongkong",
 	"LabelEN": "Ng On Yee"
 }, {
+	"item": "http://www.wikidata.org/entity/Q54613973",
+	"country": "http://www.wikidata.org/entity/Q865",
+	"countryLabel": "Republika Chińska",
+	"LabelEN": "Wu Yu Lin"
+}, {
+	"item": "http://www.wikidata.org/entity/Q20751372",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Akani Songsermsawad"
+}, {
+	"item": "http://www.wikidata.org/entity/Q2065428",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Atthasit Mahitthi"
+}, {
+	"item": "http://www.wikidata.org/entity/Q23770337",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Boonyarit Keattikun"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1181797",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Dechawat Poomjaeng",
+	"LabelPL": "Dechawat Poomjaeng",
+	"page_titlePL": "Dechawat Poomjaeng"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1674781",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Issara Kachaiwong",
+	"LabelPL": "Issara Kachaiwong",
+	"page_titlePL": "Issara Kachaiwong"
+}, {
+	"item": "http://www.wikidata.org/entity/Q708474",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "James Wattana",
+	"LabelPL": "James Wattana",
+	"page_titlePL": "James Wattana"
+}, {
+	"item": "http://www.wikidata.org/entity/Q18819067",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Kobkit Palajin"
+}, {
+	"item": "http://www.wikidata.org/entity/Q27243078",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Kritsanut Lertsattayathorn"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4218466",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Kwan Poomjang"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4327244",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Noppadol Sangnil"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4327243",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Noppadon Noppachorn"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4327245",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Noppon Saengkham",
+	"LabelPL": "Noppon Saengkham",
+	"page_titlePL": "Noppon Saengkham"
+}, {
+	"item": "http://www.wikidata.org/entity/Q64853058",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Nutcharut Wongharuthai"
+}, {
+	"item": "http://www.wikidata.org/entity/Q729542",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Passakorn Suwannawat",
+	"LabelPL": "Passakorn Suwannawat",
+	"page_titlePL": "Passakorn Suwannawat"
+}, {
+	"item": "http://www.wikidata.org/entity/Q4480644",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Phaitoon Phonbun"
+}, {
+	"item": "http://www.wikidata.org/entity/Q15699963",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Ratchayothin Yotharuck",
+	"LabelPL": "Ratchayothin Yotharuck",
+	"page_titlePL": "Ratchayothin Yotharuck"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67877048",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Rom Surin"
+}, {
+	"item": "http://www.wikidata.org/entity/Q101052306",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Sakchai Sim Ngam"
+}, {
+	"item": "http://www.wikidata.org/entity/Q116970768",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Siripaporn Nuanthakhamjan"
+}, {
+	"item": "http://www.wikidata.org/entity/Q673032",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Supoj Saenla"
+}, {
+	"item": "http://www.wikidata.org/entity/Q16207965",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Tai Pichit"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1483408",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Thanawat Thirapongpaiboon",
+	"LabelPL": "Thanawat Thirapongpaiboon",
+	"page_titlePL": "Thanawat Thirapongpaiboon"
+}, {
+	"item": "http://www.wikidata.org/entity/Q1339899",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Thepchaiya Un-Nooh",
+	"LabelPL": "Thepchaiya Un-Nooh",
+	"page_titlePL": "Thepchaiya Un-Nooh"
+}, {
+	"item": "http://www.wikidata.org/entity/Q67222812",
+	"country": "http://www.wikidata.org/entity/Q869",
+	"countryLabel": "Tajlandia",
+	"LabelEN": "Waratthanun Sukritthanes"
+}, {
+	"item": "http://www.wikidata.org/entity/Q21816892",
+	"country": "http://www.wikidata.org/entity/Q878",
+	"countryLabel": "Zjednoczone Emiraty Arabskie",
+	"LabelEN": "Mohammed Shehab"
+}, {
+	"item": "http://www.wikidata.org/entity/Q23061966",
+	"country": "http://www.wikidata.org/entity/Q878",
+	"countryLabel": "Zjednoczone Emiraty Arabskie",
+	"LabelEN": "Mohammed al-Joker"
+}, {
+	"item": "http://www.wikidata.org/entity/Q16207960",
+	"country": "http://www.wikidata.org/entity/Q889",
+	"countryLabel": "Afganistan",
+	"LabelEN": "Saleh Mohammad"
+}, {
+	"item": "http://www.wikidata.org/entity/Q687803",
+	"country": "http://www.wikidata.org/entity/Q928",
+	"countryLabel": "Filipiny",
+	"LabelEN": "Alex Pagulayan"
+}, {
 	"item": "http://www.wikidata.org/entity/Q19726811",
 	"country": "http://www.wikidata.org/entity/Q9676",
 	"countryLabel": "Wyspa Man",
 	"LabelEN": "Darryl Hill"
+}, {
+	"item": "http://www.wikidata.org/entity/Q104973430",
+	"country": "http://www.wikidata.org/entity/Q9676",
+	"countryLabel": "Wyspa Man",
+	"LabelEN": "Tony Wilson"
 }]

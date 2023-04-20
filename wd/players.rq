@@ -1,4 +1,4 @@
-# Snooker players in pl.wikipedia
+# Snooker players in WD and optional pl.wikipedia articles
 SELECT DISTINCT 
 ?item 
 ?country 
