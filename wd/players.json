@@ -1099,7 +1099,7 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "David Gray",
-	"LabelPL": "David Gray (snookerzysta)",
+	"LabelPL": "David Gray",
 	"page_titlePL": "David Gray (snookerzysta)"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4148991",
@@ -1138,13 +1138,6 @@
 	"country": "http://www.wikidata.org/entity/Q21",
 	"countryLabel": "Anglia",
 	"LabelEN": "Dennis Hughes"
-}, {
-	"item": "http://www.wikidata.org/entity/Q504726",
-	"country": "http://www.wikidata.org/entity/Q21",
-	"countryLabel": "Anglia",
-	"LabelEN": "Dennis Taylor",
-	"LabelPL": "Dennis Taylor",
-	"page_titlePL": "Dennis Taylor (snookerzysta)"
 }, {
 	"item": "http://www.wikidata.org/entity/Q105044735",
 	"country": "http://www.wikidata.org/entity/Q21",
@@ -3338,6 +3331,13 @@
 	"LabelEN": "Declan Hughes",
 	"LabelPL": "Declan Hughes",
 	"page_titlePL": "Declan Hughes"
+}, {
+	"item": "http://www.wikidata.org/entity/Q504726",
+	"country": "http://www.wikidata.org/entity/Q26",
+	"countryLabel": "Irlandia Północna",
+	"LabelEN": "Dennis Taylor",
+	"LabelPL": "Dennis Taylor",
+	"page_titlePL": "Dennis Taylor (snookerzysta)"
 }, {
 	"item": "http://www.wikidata.org/entity/Q4275599",
 	"country": "http://www.wikidata.org/entity/Q26",
