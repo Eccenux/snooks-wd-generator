@@ -223,7 +223,6 @@ snook.players = [
 	new snook.player ("David Taylor", "", 'ENG'),
 	new snook.player ("Dean Reynolds", "", 'ENG'),
 	new snook.player ("Dennis Hughes", "", 'ENG'),
-	new snook.player ("Dennis Taylor", "Dennis Taylor (snookerzysta)", 'ENG'),
 	new snook.player ("Derek Heaton", "", 'ENG'),
 	new snook.player ("Dermot McGlinchey", "", 'ENG'),
 	new snook.player ("Dilwyn John", "", 'ENG'),
@@ -642,6 +641,7 @@ snook.players = [
 
 	new snook.player ("Alex Higgins", "", 'NIR'),
 	new snook.player ("Declan Hughes", "", 'NIR'),
+	new snook.player ("Dennis Taylor", "Dennis Taylor (snookerzysta)", 'NIR'),
 	new snook.player ("Dermot McGlinchey", "", 'NIR'),
 	new snook.player ("Gerard Greene", "", 'NIR'),
 	new snook.player ("Jack McLaughlin", "", 'NIR'),
