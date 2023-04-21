@@ -15,6 +15,11 @@
 		"countryCode": "WAL"
 	},
 	{
+		"country": "http://www.wikidata.org/entity/Q193619",
+		"countryLabel": "Związek Południowej Afryki / Południowa Afryka",
+		"countryCode": "RSA"
+	},
+	{
 		"country": "http://www.wikidata.org/entity/Q21",
 		"countryLabel": "England",
 		"countryCode": "ENG"
